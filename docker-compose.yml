@@ -13,5 +13,5 @@ services:
       - db
     environment:
       WAIT_FOR_IT: db:5432
-      DATABASE_URL: postgis://postgres:postgres@db:5432/postgres
+      # DATABASE_URL: postgis://postgres:postgres@db:5432/postgres
       SECRET_KEY: 

@@ -8,7 +8,7 @@ assert os.path.exists(os.path.join(BASE_DIR, "manage.py"))
 
 env = Env()
 
-DEBUG = False
+DEBUG = env.bool('DEBUG', default=False)
 LANGUAGE_CODE = "fi"
 LANGUAGES = [
     ('fi', _('Finnish')),
@@ -21,7 +21,7 @@ if not os.path.isdir(VAR_ROOT):
 MEDIA_ROOT = os.path.join(VAR_ROOT, "media")
 MEDIA_URL = "/media/"
 ROOT_URLCONF = "paatos.urls"
-STATIC_ROOT = os.path.join(VAR_ROOT, "static")
+STATIC_ROOT = env.str('STATIC_ROOT', default=os.path.join(VAR_ROOT, "static"))
 STATIC_URL = "/static/"
 TIME_ZONE = "Europe/Helsinki"
 USE_I18N = True
@@ -74,7 +74,11 @@ TEMPLATES = [
 DATABASES = {
     'default': {
         'ENGINE': 'django.contrib.gis.db.backends.postgis',
-        'NAME': 'paatos',
+        'NAME': 'postgres',
+        'USER': 'postgres',
+        'PASSWORD': '',
+        'HOST': 'db',
+        'PORT': '5432',
     }
 }
 
