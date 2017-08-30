@@ -1,0 +1,806 @@
+﻿# Tämän tiedoston sisältö on kopioitu (copy+paste)
+# ESPOON KAUPUNGIN ASIAKIRJALLISTEN TIETOJEN TEHTÄVÄLUOKITUS 20.6.2017 -dokumentista
+# lukuunottamatta '#'-merkillä alkavia rivejä
+
+00 HALLINTOASIAT
+
+00.00 Hallintoasioiden ohjaus
+
+00.00.00 Vaalien järjestäminen
+
+00.00.01 Toimielinten ja luottamushenkilöiden valinta ja kokoonpano
+
+00.01 Toiminnan suunnittelu, järjestäminen, toteuttaminen ja kehittäminen
+
+00.01.00 Perustaminen, lakkauttaminen, yhdistäminen ja yhteistyö
+
+00.01.01 Hallinnon järjestäminen
+
+00.01.02 Toiminnan suunnittelu ja kehittäminen
+
+00.01.03 Toiminnan arviointi ja seuranta
+
+00.01.04 Riskienhallinta
+
+00 01.05 Ohjelma-, hanke-, projektitoiminta
+
+00.02 Päätöksenteko ja johtaminen
+
+00.02.00 Valtuuston päätöksenteko
+
+00.02.01 Hallituksen päätöksenteko
+
+00.02.02 Toimielinten/luottamuselinten päätöksenteko
+
+00.02.03 Johtoryhmätyöskentely
+
+00.03 Tarkastustoimi
+
+00.03.00 Ulkoinen toiminta, hallinnon ja talouden valvonta
+
+00.03.01 Sisäinen toiminta, hallinnon ja talouden valvonta
+
+00.04 Kotimainen yhteistyö
+
+00.04.00 Kunta-valtio yhteistyö
+
+00.04.01 Seudullinen ja kuntien välinen yhteistyö
+
+00.04.02 Yhteistyö organisaatioiden kanssa
+
+01 HENKILÖSTÖASIAT
+
+01.00 Henkilöstöasioiden ohjaus
+
+01.00.00 Työnantaja- ja henkilöstöpolitiikka
+
+01.00.01 Yleiset virka- ja työehtosopimukset
+
+01.00.02 Henkilöstösuunnittelu ja raportointi
+
+01.01 Palvelussuhdeasiat
+
+01.01.00 Palvelussuhteiden hallinta
+
+01.01.01 Rekrytointi ja palvelussuhteeseen valitseminen
+
+01.01.02 Palvelussuhteen aloittaminen
+
+01.01.03 Palvelussuhteen hoitaminen
+
+01.01.04 Palvelussuhteen päättyminen
+
+01.02 Palkan, palkkioiden ja korvausten maksaminen
+
+01.02.00 Palkan, palkkioiden ja palkanlisien perusteiden laskenta
+
+01.02.01 Palkan, palkkioiden ja palkanlisien maksaminen ja luontoisedut
+
+01.02.02 Matkustus
+
+01.02.03 Henkilöstön palkitseminen
+
+01.03 Osaamisen kehittäminen
+
+01.03.00 Henkilöstön koulutus ja kehittäminen
+
+01.03.01 Omaehtoisen koulutuksen tukeminen
+
+01.04 Työhyvinvoinnin edistäminen
+
+01.04.00 Yhteistoiminta-asiat
+
+01.04.01 Työsuojelu ja työturvallisuus
+
+01.04.02 Työterveyshuolto
+
+01.04.03 Henkilöstöruokailu
+
+01.04.04 Virkistys- ja harrastustoiminta
+
+01.04.05 Työhyvinvointi
+
+02 TALOUSASIAT, VEROTUS JA OMAISUUDENHALLINTA
+
+02.00 Talousasioiden suunnittelu ja ohjaus
+
+02.00.00 Talousasioiden suunnittelu ja ohjaus
+
+02.01 Talouspolitiikka
+
+02.01.00 Talouspolitiikka
+
+02.02 Talouden suunnittelu ja seuranta
+
+02.02.00 Talousarvion valmistelu
+
+02.02.01 Sisäinen ja ulkoinen tilintarkastus
+
+02.02.02 Talouden seuranta
+
+02.02.03 Määrärahan myöntäminen, siirto ja muutos
+
+02.03 Verotus
+
+02.03.00 Valtionverotus
+
+02.03.01 Kunnallisverotus
+
+02.04 Tullitoiminta
+
+02.04.00 Tullitoiminta
+
+02.05 Rahoitus ja varainhallinta
+
+02.05.00 Maksuperusteiden määrääminen
+
+02.05.01 Tuet ja avustukset
+
+02.05.02 Hankerahoitus
+
+02.05.03 Antolainaus
+
+02.05.04 Ottolainaus
+
+02.05.05 Sijoitustoiminta
+
+02.05.06 Takauksien ja vakuuksien hallinta
+
+02.06 Kirjanpito ja maksuliikenne
+
+02.06.00 Pankkipalveluiden hallinta
+
+02.06.01 Kirjanpito
+
+02.06.02 Kassatoiminnot
+
+02.06.03 Sisäisen pankin toiminta
+
+02.06.04 Perintä ja maksukyvyttömyysasiat
+
+02.07 Omaisuuden hallinta
+
+02.07.00 Kiinteän omaisuuden hallinta
+
+02.07.01 Irtaimen omaisuuden hallinta
+
+02.07.02 Perintö- ja lahjoitusasiat
+
+02.08 Hankintatoimi
+
+02.08.00 Hankintatoimi
+
+02.08.01 Logistiikka
+
+02.09 Omien palvelujen ja tuotteiden myynti
+
+02.09.00 Palvelujen ja tuotteiden myynti
+
+03 LAINSÄÄDÄNTÖ JA LAINSÄÄDÄNNÖN SOVELTAMINEN
+
+03.00 Kansallisten lakien ja asetusten säätäminen
+
+03.00.00 Kansalliset lait ja asetukset
+
+03.01 EU-lainsäädäntö
+
+03.01.00 EU-lainsäädäntö
+
+03.02 Lainsäädännön ja lainsäädännön soveltamisen ohjaus
+
+03.02.00 Lainsäädännön ja lainsäädännön soveltamisen ohjaus
+
+03.03 Lainsäädännön soveltaminen
+
+03.03.00 Lainsäädännön soveltaminen
+
+03.04 Laillisuusvalvonta
+
+03.04.00 Laillisuusvalvonta
+
+03.05 Henkilöoikeus
+
+03.05.00 Henkilöoikeus
+
+03.06 Oikeudellisten etujen valvonta
+
+03.06.00 Oikeudenkäynnit ja oikeudellisten etujen valvonta
+
+03.06.01 Työriitojen sovittelu
+
+03.06.02 Vahingonkorvausasiat
+
+04 ULKOPOLITIIKKA JA KANSAINVÄLINEN TOIMINTA
+
+04.00 Kansainvälisten asioiden ohjaus
+
+04.00.00 Kansainvälisten asioiden ohjaus
+
+04.01 Ulkoasiainhallinta
+
+04.01.00 Ulkoasiainhallinta
+
+04.02 Kehityspolitiikka
+
+04.02.00 Kehityspolitiikka
+
+04.03 Maahanmuuttopolitiikka
+
+04.03.00 Työperusteinen ja humanitaarinen maahanmuutto
+
+04.04 Kansainväliseen toimintaan osallistuminen
+
+04.04.00 Kansainvälisten organisaatioiden toimintaan osallistuminen
+
+05 SOSIAALIHUOLTO
+
+05.00 Sosiaalihuollon järjestäminen, ohjaus ja valvonta
+
+05.00.00 Sosiaalihuollon järjestäminen, ohjaus ja valvonta
+
+05.01 Adoptioneuvonta
+
+05.01.00 Adoptioneuvonnan yleinen järjestäminen, ohjaus ja valvonta
+
+05.01.01 Adoptioneuvonnan asiakaskohtainen työ
+
+05.02 Isyyden selvittäminen
+
+05.02.00 Isyyden selvittämisen yleinen järjestäminen, ohjaus ja valvonta
+
+05.02.01 Isyyden selvittämisen asiakasakohtainen työ
+
+05.03 Kasvatus- ja perheneuvonta
+
+05.03.00 Kasvatus- ja perheneuvonnan yleinen järjestäminen, ohjaus ja valvonta
+
+05.03.01 Kasvatus- ja perheneuvonnan asiakaskohtainen työ
+
+05.03.02 Kasvatus- ja perheneuvonnan ryhmä- ja yhteisötyö
+
+05.04 Kehitysvammaisten erityishuolto
+
+05.04.00 Kehitysvammaisten erityishuollon yleinen järjestäminen, ohjaus ja valvonta
+
+05.04.01 Kehitysvammaisten erityishuollon asiakaskohtainen työ
+
+05.04.02 Kehitysvammaisten erityishuollon ryhmä- ja yhteisötyö
+
+05.05 Kotipalvelut
+
+05.05.00 Kotipalvelujen yleinen järjestäminen, ohjaus ja valvonta
+
+05.05.01 Kotipalvelujen asiakaskohtainen työ
+
+05.05.02 Kotipalvelujen ryhmä- ja yhteisötyö
+
+05.06 Lapsen elatusavun vahvistaminen
+
+05.06.00 Lapsen elatusavun vahvistamisen yleinen järjestäminen, ohjaus ja valvonta
+
+05.06.01 Lapsen elatusavun vahvistamisen asiakaskohtainen työ
+
+05.07 Lapsen huollon ja tapaamisoikeuden varmistaminen
+
+05.07.00 Lapsen huollon ja tapaamisoikeuden varmistamisen yleinen järjestäminen, ohjaus ja valvonta
+
+05.07.01 Lapsen huollon ja tapaamisoikeuden varmistamisen asiakaskohtainen työ
+
+05.08 Lapsen huollon ja tapaamisoikeuden täytäntöönpanosovittelu
+
+05.08.00 Lapsen huollon ja tapaamisoikeuden täytäntöönpanosovittelun yleinen järjestäminen, ohjaus ja valvonta
+
+05.09 Lastensuojelu
+
+05.09.00 Lastensuojelun yleinen järjestäminen, ohjaus ja valvonta
+
+05.09.01 Lastensuojelun asiakaskohtainen työ
+
+05.09.02 Lastensuojelun ryhmä- ja yhteisötyö
+
+05.10 Lasten päivähoito
+
+05.10.00 Lasten päivähoidon yleinen järjestäminen, ohjaus ja valvonta
+
+05.10.01 Lasten päivähoidon asiakaskohtainen työ
+
+05.10.02 Lasten päivähoidon ryhmä- ja yhteisötyö
+
+05.11 Maahanmuuttajien kotouttaminen
+
+05.11.00 Maahanmuuttajien kotouttamisen yleinen järjestäminen, ohjaus ja valvonta
+
+05.11.01 Maahanmuuttajien kotoutumisen asiakaskohtainen työ
+
+05.11.02 Maahanmuuttajien kotouttamisen ryhmä- ja yhteisötyö
+
+05.12 Omaishoidon tukeminen
+
+05.12.00 Omaishoidon tuen yleinen järjestäminen, ohjaus ja valvonta
+
+05.12.01 Omaishoidon tuen asiakaskohtainen työ
+
+05.12.02 Omaishoidon tukemisen ryhmä- ja yhteisötyö
+
+05.13 Perheasioiden sovittelu
+
+05.13.00 Perheasioiden sovittelun yleinen järjestäminen, ohjaus ja valvonta
+
+05.13.01 Perheasioiden sovittelun asiakaskohtainen työ
+
+05.14 Puolison elatusavun vahvistaminen
+
+05.14.00 Puolison elatusavun vahvistamisen yleinen järjestäminen, ohjaus ja valvonta
+05.14.01 Puolison elatusavun asiakaskohtainen työ
+
+05.15 Päihdehuolto
+
+05.15.00 Päihdehuollon yleinen järjestäminen, ohjaus ja valvonta
+
+05.15.01 Päihdehuollon asiakaskohtainen työ
+
+05.15.02 Päihdehuollon ryhmä- ja yhteisötyö
+
+05.16 Sosiaaliasiamiestoiminta
+
+05.16.00 Sosiaaliasiamiestoiminnan yleinen järjestäminen, ohjaus ja valvonta
+
+05.16.01 Sosiaaliasiamiestoiminnan asiakaskohtainen työ
+
+05.16.02 Sosiaaliasiamiestoiminnan ryhmä- ja yhteisötyö
+
+05.17 Sosiaalihuoltolain mukaiset palvelut
+
+05.17.00 Sosiaalihuoltolain mukaisten palveluiden yleinen järjestäminen, ohjaus ja valvonta
+
+05.17.01 Sosiaalihuoltolain mukaisten palveluiden asiakaskohtainen työ
+
+05.17.02 Sosiaalihuoltolain mukaisten palvelujen ryhmä- ja yhteisötyö
+
+05.18 Sosiaalinen luototus
+
+05.18.00 Sosiaalisen luototuksen yleinen järjestäminen, ohjaus ja valvonta
+
+05.18.01 Sosiaalisen luototuksen asiakaskohtainen työ
+
+05.19 Toimeentulotuki
+
+05.19.00 Toimeentulotuen yleinen järjestäminen, ohjaus ja valvonta
+
+05.19.01 Toimeentulotuen asiakaskohtainen työ
+
+05.20 Pitkäaikaistyöttömien työllistymisen tukeminen
+
+05.20.00 Pitkäaikaistyöttömien työllistymisen tukemisen yleinen järjestäminen, ohjaus ja valvonta
+
+05.20.01 Pitkäaikaistyöttömien työllistymisen tukemisen asiakaskohtainen työ
+
+05.20.02 Pitkäaikaistyöttömien työllistymisen tukemisen ryhmä- ja yhteisötyö
+
+05.21 Vammaispalvelut
+
+05.21.00 Vammaispalvelujen yleinen järjestäminen, ohjaus ja valvonta
+
+05.21.01 Vammaispalvelujen asiakaskohtainen työ
+
+05.21.02 Vammaispalvelujen ryhmä- ja asiakastyö
+
+05.22 Vammaisten henkilöiden työllistymisen tukeminen
+
+05.22.00 Vammaisten henkilöiden työllistymisen tukemisen yleinen järjestäminen, ohjaus ja valvonta
+
+05.22.01 Vammaisten henkilöiden työllistymisen tukemisen asiakaskohtainen työ
+
+05.22.02 Vammaisten henkilöiden työllistymisen tukemisen ryhmä- ja yhteisötyö
+
+06 TERVEYDENHUOLTO
+
+06.00 Palveluprosessin hallinta
+
+06.00.00 Hoidon järjestäminen
+
+06.00.01 Perustietojen ylläpito
+
+06.00.02 Potilasasiakirjojen käytön ja luovutusten hallinta
+
+06.01 Ennaltaehkäisevä terveydenhoito
+
+06.01.00 Terveysneuvonta
+
+06 01.01 Seulonta
+
+06.02 Ensihoito ja sairaankuljetus
+
+06.02.00 Ensihoito ja sairaankuljetus
+
+06.03 Potilaan hoito
+
+06.03.00 	Potilaan hoito
+
+06.04 Terveydenhoidolliset/sairaanhoidolliset palvelut
+
+06.04.00 Kuvantaminen
+
+06.04.01 Laboratoriotoiminta
+
+06.05 Vainajaan liittyvät terveydenhuollon tehtävät
+
+06.05.00 Vainajaan liittyvät terveydenhuollon tehtävät
+
+06.06 Potilaan hoitoon liittyvä yhteistyö
+
+06.06.00 Organisaatioiden välinen tiedonvaihto
+
+06.06.01 Virka-aputehtävät
+
+06.07 Tukipalvelut
+
+06.07.00 Välinehuolto ja hoitotarvikepalvelut
+
+06.07.01 Apuvälinepalvelut
+
+06.07.02 Apteekkitoiminta
+
+06.07.03 Lääkintätekniikka
+
+07 TIEDONHALLINTA JA VIESTINTÄPALVELUT
+
+07.00 Tiedonhallinta ja viestintäpalveluiden ohjaus
+
+07.00.00 Tiedonhallinnan ja viestintäpolitiikan kehittäminen ja ohjaus
+
+07.00.01 Viestintämarkkinoiden kehittäminen ja ohjaus
+
+07.01 Tiedonhallinta ja tietopalvelu
+
+07.01.00 Tietoturva
+
+07.01.01 Tietosuoja
+
+07.01.02 Sähköisen asioinnin kehittäminen
+
+07.01.03 Asiakirjahallinto ja arkistotoimi
+
+07.01.04 Tietopalvelu
+
+07.01.05 Tilastotoimi
+
+07.02 Viestintä ja tiedottaminen
+
+07.02.00 Viestinnän ja tiedottamisen ohjaus ja järjestäminen
+
+07.02.01 Viestinnän ja tiedottamisen toteuttaminen
+
+07.02.02 Suhdetoiminta
+
+07.02.03 Julkaisutoiminta
+
+07.02.04 Tulkkipalvelut
+
+07.02.05 Markkinointi
+
+07.02.06 Tunnustukset ja palkinnot
+
+07.03 Tietojärjestelmien kehittäminen ja ylläpito
+
+07.03.00 Tietojärjestelmäpalvelujen ohjaus
+
+07.03.01 Tietojärjestelmien käyttäjäoikeuksien hallinta
+
+07.03.02 Tietojärjestelmien suunnittelu ja käyttö
+
+08 LIIKENNE
+
+08.00 Liikenteen suunnittelu ja kehittäminen
+
+08.00.00 Liikenteen suunnittelu, kehittäminen, ohjaus ja ylläpito
+
+08.01 Liikennepalvelut
+
+08.01.00 Joukkoliikenteen toiminnallinen suunnittelu ja tuottaminen
+
+08.01.01 Kuljetuspalveluiden järjestäminen
+
+08.01.02 Satamatoiminta ja aluspalvelut	 
+
+08.01.03 Liikenteen valvonta
+
+09 TURVALLISUUS JA YLEINEN JÄRJESTYS
+
+09.00 Turvallisuus- ja yleisten järjestysasioiden ohjaus
+
+09.00.00 Turvallisuuden suunnittelu ja valvonta, yleinen järjestys
+
+09.01 Maanpuolustus
+
+09.01.00 Maanpuolustus
+
+09.02 Poliisi ja järjestystoimi
+
+09.02.00 Poliisi ja järjestystoimi
+
+09.03 Pakkokeinot, rangaistukset ja kriminaalipolitiikka
+
+09.03.00 Pakkokeinot, rangaistukset ja kriminaalipolitiikka
+
+09.04 Rajavalvonta
+
+09.04.00 Rajavalvonta
+
+09.05 Palo- ja pelastustoimi
+
+09.05.00 Onnettomuuksien ennaltaehkäisy
+
+09.05.01 Sammutus- ja pelastustoiminta
+
+09.06 Väestönsuojelu ja poikkeusoloihin varautuminen
+
+09.06.00 Valmiussuunnittelu
+
+09.06.01 Väestönsuojelu
+
+10 MAANKÄYTTÖ, ASUMINEN JA RAKENTAMINEN
+
+10.00 Maankäytön, rakentamisen ja asumisen ohjaus
+
+10.00.00 Maapolitiikan hoito
+
+10.00.01 Maanhankinta
+
+10.00.02 Maan luovutus
+
+10.01 Maanmittaus ja maaperätutkimus
+
+10.01.00 Kiinteistönmuodostus
+
+10.01.01 Maa- ja kallioperätutkimukset
+
+10.01.02 Maastomittaukset ja paikkatietojen hallinta
+
+10.02 Kaavoitus
+
+10.02.00 Maakuntakaavoitus
+
+10.02.01 Kuntien välinen yleiskaavoitus
+
+10.02.02 Yleis- ja osayleiskaavoitus
+
+10.02.03 Asemakaavoitus
+
+10.02.04 Rantakaavoitus
+
+10.02.05 Rakennus-, toimenpidekiellot ja -rajoitukset
+
+10.02.06 Nimistö ja osoiteasiat
+
+10.03 Rakentaminen, ylläpito ja käyttö
+
+10.03.00 Rakennusvalvonta
+
+10.03.01 Yleisten alueiden suunnittelu, rakentaminen, ylläpito ja käyttö
+
+10.03.02 Kiinteistöjen rakentaminen, ylläpito ja käyttö
+
+10.04 Asuminen
+
+10.04.00 Asuntotuotannon ohjaus
+
+10.04.01 Asumisoikeusasiat
+
+10.04.02 Asuntojen vuokraus
+
+10.04.03 Korjausneuvonta ja -avustusten myöntäminen
+
+11 YMPÄRISTÖASIAT
+
+11.00 Ympäristöasioiden ohjaus
+
+11.00.00 Ympäristöpolitiikka
+
+11.00.01 Ympäristönsuojelun suunnitteleminen ja kehittäminen
+
+11.00.02 Ympäristön tilan yleinen seuranta
+
+11.01 Ympäristön- ja luonnonsuojelu
+
+11.01.00 Ympäristönsuojelu
+
+11.01.01 Ilmansuojelu ja ilman laadun seuranta
+
+11.01.02 Luonnonsuojelu
+
+11.01.03 Vesiensuojelu ja vesirakentamisen valvonta
+
+11.01.04 Meluntorjunta ja meluilmoitukset
+
+11.01.05 Jätehuollon valvonta ja jätteen synnyn ehkäisy
+
+11.01.06 Ympäristövalistus
+
+11.02 Maisema- ja kulttuuriympäristön suojelu ja hoito
+
+11.02.00 Maisema- ja kulttuuriympäristön suojelun ja hoidon ohjaus
+
+11.02.01 Muinaismuistojen suojelu, vaaliminen ja hallinta
+
+11.02.02 Maisema- ja kulttuurikohteiden suojelu ja hoito
+
+11.03 Ympäristöterveydenhuolto
+
+11.03.00 Elintarvikevalvonta
+
+11.03.01 Tuoteturvallisuus
+
+11.03.02 Terveydensuojelu
+
+11.03.03 Kemikaaliasiat
+
+11.03.04 Tupakka- ja nikotiinikorvausasiat
+
+11.03.05 Eläinsuojelu
+
+11.03.06 Eläinlääkintähuolto
+
+12 OPETUS- JA SIVISTYSTOIMI
+
+12.00 Opetus- ja sivistystoimen ohjaus
+
+12.00.00 Koulutus- ja kulttuuripoliittinen suunnittelu
+
+12.00.01 Kokeilu- ja kehittämistoiminta 
+
+12.01 Opetustoiminta
+
+12.01.00 Koulutuksen ja opetuksen suunnittelu, ohjaus ja arviointi
+
+12.01.01 Opetuksen järjestäminen
+
+12.01.02 Oppilaaksi otto ja opiskelijavalinnat
+
+12.01.03 Oppilaan/opiskelijan opetuksen järjestäminen
+
+12.01.04 Työelämään tutustuminen
+
+12.01.05 Oppilaan/opiskelijan arviointi
+
+12.01.06 Ylioppilastutkinnon järjestäminen
+
+12.01.07 Oppilashuolto
+
+12.01.08 Kurinpito
+
+12.01.09 Kodin ja koulun välinen yhteistyö
+
+12.01.10 Palkitseminen ja stipendit
+
+12.01.11 Opiskelijavaihto
+
+12.01.12 Oppilaskuntatoiminta
+
+12.01.13 Harrastustoiminta
+
+12.02 Kulttuuripalvelut
+
+12.02.00 Toiminnan suunnittelu ja ohjaus
+
+12.02.01 Kulttuuritoiminta
+
+12.02.02 Kirjastotoiminta
+
+12.02.03 Museotoiminta 
+
+12.02.04 Orkesteritoiminta
+
+12.02.05 Teatteri-, baletti- ja oopperatoiminta
+
+12.02.06 Tivoli- ja eläintarhatoiminta
+
+12.03 Liikuntapalvelut
+
+12.03.00 Liikuntapalvelujen suunnittelu, ohjaus ja seuranta
+
+12.03.01 Seuratoiminta ja avustukset
+
+12.03.02 Liikunta- ja urheilutapahtumat
+
+12.03.03 Liikunnanohjauspalvelut
+
+12.03.04 Liikuntatilapalvelut
+
+12.03.05 Ulkoilupalvelut
+
+12.04 Lapsi- ja nuorisoasioiden palvelut
+
+12.04.00 Toiminnan suunnittelu, ohjaus ja seuranta
+
+12.04.01 Nuorten tieto- ja neuvontapalvelut
+
+12.04.02 Nuorisotyö
+
+12.04.03 Kurssi- ja kerhotoiminta
+
+12.04.04 Leiritoiminta ja tapahtumat
+
+12.04.05 Nuorten työllistymisen tukeminen
+
+12.04.06 Vapaaehtoisen nuorisotoiminnan tukeminen
+
+12.05 Kirkollisten ja uskonnollisten yhteisöjen toiminta
+
+12.05.00 Kirkollisten ja uskonnollisten yhteisöjen toiminta
+
+13 TUTKIMUS- JA KEHITTÄMISTOIMINTA
+
+13.00 Tutkimus- ja kehittämistoiminnan ohjaus
+
+13.00.00 Tutkimus- ja kehittämistoiminnan ohjaus
+
+13.01 Tutkimus- ja kehittämistoiminnan suunnittelu, järjestäminen ja toteuttaminen
+
+13.01.00 Tutkimus- ja kehittämistoiminnan suunnittelu, järjestäminen ja toteuttaminen
+
+13.02 Tutkimuseettinen toiminta
+
+13.02.00 Tutkimuseettinen toiminta
+
+14 ELINKEINO- JA TYÖVOIMAPALVELUT
+
+14.00 Elinkeino- ja työvoimapalvelujen ohjaus
+
+14.00.00 Elinkeino- ja työvoimapolitiikka
+
+14.00.01 Elinkeino- ja työvoimatoiminnan suunnittelu ja kehittäminen
+
+14.01 Yritystoiminnan edistäminen
+
+14.01.00 Yhteistyö ja yritystoiminnan tukeminen
+
+14.02 Matkailun edistäminen
+
+14.02.00 Matkailun edistäminen
+
+14.03 Maaseudun elinkeinotoiminta
+
+14.03.00 Maatalous
+
+14.03.01 Lomitustoiminta
+
+14.03.02 Metsätalous
+
+14.03.03 Kalatalous
+
+14.03.04 Porotalous
+
+14.03.05 Metsästys ja riistatalous
+
+14.03.06 Riistanhoito ja metsästyksen säätely
+
+14.04 Polttoaine- ja energiatuotannon sekä -huollon suunnittelu, järjestäminen ja toteuttaminen
+
+14.04.00 Polttoaine- ja energiatuotannon sekä -huollon ohjaus
+
+14.04.01 Polttoaineen- ja energiatuotanto
+
+14.05 Vesi- ja jätevesihuollon järjestäminen ja toteuttaminen
+
+14.05.00 Vesihuollon järjestäminen
+
+14.05.01 Jätevesihuollon järjestäminen
+
+14.06 Jätehuollon järjestäminen ja toteuttaminen
+
+14.06.00 Jätehuollon järjestäminen
+
+14.06.01 Jätehuollon toteuttaminen
+
+14.07 Työvoimapalvelut 
+
+14.07.00 Työvoimapalvelujen suunnittelu
+
+14.07.01 Työllisyyden hoito
+
+14.08 Kuluttajaneuvonta
+
+14.08.00 Kuluttajaneuvontatoiminta
+
+

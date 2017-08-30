@@ -1,0 +1,2095 @@
+# Tämän tiedoston sisältö on kopioitu (copy+paste)
+# Tweb Vantaan kaupunki TEHTÄVÄLUOKITUS 27.04.2017 -dokumentista
+# lukuunottamatta '#'-merkillä alkavia rivejä
+
+HALLINTOASIAT 00
+
+Vaalien järjestäminen, toimielinten ja edustajien valinta,
+
+luottamushenkilökoulutus
+
+00.00
+
+Vaalien järjestäminen 00.00.00
+
+Kunnalliset vaalit ja kansanäänestykset 00.00.00.00
+
+Valtiolliset vaalit ja kansanäänestykset 00.00.00.01
+
+Äänestysaluejako ja sen muutokset 00.00.00.02
+
+Nuorisovaltuustovaalit 00.00.00.03
+
+Luottamuselinten, työryhmien ja edustajien valinta sekä
+
+luottamushenkilökoulutus
+
+00.00.01
+
+Luottamuselimen nimeäminen ja jäsenen vaihtuminen (kh, ltk, johtokunta,
+
+aluetmk)
+
+00.00.01.00
+
+Toimikunnan tai luottamushenkilöitä sisältävän työryhmän nimeäminen ja
+
+jäsenen vaihtuminen (muut)
+
+00.00.01.01
+
+Kaupungin edustajien valinta yhteistyöelimiin 00.00.01.02
+
+Luottamushenkilökoulutus 00.00.01.03
+
+Toiminnan suunnittelu, järjestäminen, toteuttaminen ja
+
+kehittäminen
+
+00.01
+
+Perustaminen, lakkauttaminen, yhdistäminen ja
+
+muuttaminen
+
+00.01.00
+
+Liikelaitokset, virastot/laitokset, yhteispalvelu 00.01.00.00
+
+Konsernin yhteisöjen omistusjärjestelyt 00.01.00.01
+
+Kunta, alueliitokset 00.01.00.02
+
+Hallinnon organisointi ja ohjeistaminen 00.01.01
+
+Sääntöohjaus 00.01.01.00
+
+Toiminnan organisointi ja ohjeistus 00.01.01.01
+
+Delegoinnit 00.01.01.02
+
+Sijaisen määrääminen / sijaisuudet 00.01.01.03
+
+Toiminnan järjestäminen, kehittäminen ja seuranta 00.01.02
+
+Toimintasuunnitelmien ja ohjelmien laatiminen 00.01.02.00
+
+Toiminta/arviointikertomusten laatiminen 00.01.02.01
+
+Kuntalaisaloitteet / adressit 00.01.02.02
+
+Asiakaspalautteet 00.01.02.03
+
+Aukiolo/loma-ajat 00.01.02.04
+
+27.04.2017
+
+TEHTÄVÄLUOKITUS 2(29)
+
+Työyhteisön sisäisen työskentelyn järjestäminen 00.01.02.05
+
+Toiminnan / palveluverkon kehittäminen 00.01.02.06
+
+Riskien hallinta 00.01.03
+
+Vahinkorahasto 00.01.03.00
+
+Vakuutukset 00.01.03.01
+
+Hanke- ja projektitoiminta 00.01.04
+
+Ulkopuolista rahoitusta saavat projektit/ hankkeet 00.01.04.00
+
+ICT-projektit / hankkeet 00.01.04.01
+
+Kaupungin kehityshankkeet ja projektit / useampi toimiala 00.01.04.02
+
+Muut kaupungin kehityshankkeet ja projektit / yksi toimiala 00.01.04.03
+
+EU- ja kansainväliset projektit / hankkeet 00.01.04.04
+
+Konserni- ja omistajaohjaus 00.01.05
+
+Konsernihallinnon tiedotteet ja luettelot 00.01.05.00
+
+Konsernihallinnon Controller-palvelut 00.01.05.01
+
+Konsernihallinnon juridinen neuvonta ja konsultointi 00.01.05.02
+
+Konserniyhteisöjen kokoukset ja ennakkosuostumukset, menettelytapaohjeet ja
+
+jäsenten nimeäminen
+
+00.01.05.03
+
+Konserniyhteisöjen hallitusten kokousaineistot 00.01.05.04
+
+Päätöksenteko, johtaminen ja työryhmätyöskentely 00.02
+
+Kaupunginvaltuuston kokoukset (pöytäkirjat, kokoustekniset asiat) 00.02.00
+
+Kaupunginvaltuuston esityslistat, pöytäkirjat ja kokoustekniikka 00.02.00.00
+
+Info-, seminaari- ym. kokoukset 00.02.00.01
+
+Valtuustovaliokunnan työskentely 00.02.00.02
+
+Valtuustoaloite 00.02.00.03
+
+Valtuustokysely 00.02.00.04
+
+Valtuuston kokoontuminen 00.02.00.05
+
+Kaupunginhallituksen ja sen jaoston kokoukset (pöytäkirjat, kokoustekniset
+
+asiat)
+
+00.02.01
+
+Kaupunginhallituksen ja sen jaoston esityslistat, pöytäkirjat ja kokoustekniikka 00.02.01.00
+
+Kaupunginhallituksen ja sen jaoston iltakoulu-, seminaari- ym. kokoukset 00.02.01.01
+
+Kaupunginhallituksen ja sen jaoston jäsenten esitykset ja selvityspyynnöt 00.02.01.02
+
+Lautakuntien, niiden jaostojen sekä liikelaitosten johtokuntien kokoukset
+
+(pöytäkirjat, kokoustekniset asiat)
+
+00.02.02
+
+Lautakuntien ja niiden jaostojen sekä liikelaitosten johtokuntien kokoukset,
+
+esityslistat, pöytäkirjat ja kokoustekniikka
+
+00.02.02.00
+
+Lautakuntien ja niiden jaostojen sekä liikelaitosten johtokuntien seminaari- ym.
+
+kokoukset
+
+00.02.02.01
+
+Lautakuntien ja niiden jaostojen sekä liikelaitosten johtokuntien jäsenten
+
+esitykset ja selvityspyynnöt
+
+00.02.02.02
+
+27.04.2017
+
+TEHTÄVÄLUOKITUS 3(29)
+
+Yksilöasioiden jaostojen kokoukset 00.02.02.03
+
+Johtokuntien, toimikuntien ja neuvostojen kokoukset (pöytäkirjat, kokoustekniset
+
+asiat)
+
+00.02.03
+
+Johtokuntien, toimikuntien ja neuvostojen esityslistat, pöytäkirjat ja
+
+kokoustekniikka
+
+00.02.03.00
+
+Johtokuntien ja toimikuntien seminaari- ym. kokoukset 00.02.03.01
+
+Johtokuntien jäsenten esitykset ja selvityspyynnöt 00.02.03.02
+
+Kaupungin johto- ja ohjausyhmien kokoukset 00.02.04
+
+Työryhmäkokoukset 00.02.05
+
+Tulosaluekokoukset 00.02.06
+
+Yksikkökokoukset ja sisäinen työskentely 00.02.07
+
+Tarkastustoimi 00.03
+
+Ulkoinen toiminnan, hallinnon ja talouden valvonta 00.03.00
+
+Ulkoisen tarkastuksen arviointitoiminta 00.03.00.00
+
+Tilintarkastustoiminta 00.03.00.01
+
+Sisäinen toiminnan, hallinnon ja talouden valvonta 00.03.01
+
+Sisäisen tarkastuksen suorittaminen 00.03.01.00
+
+Toiminnan valvonta 00.03.02
+
+Toiminnan valvonta ja tarkastus 00.03.02.00
+
+Kotimainen yhteistyö 00.04
+
+Kunta-valtio yhteistyö 00.04.00
+
+Maakunnallinen, seudullinen ja kuntien välinen yhteistyö 00.04.01
+
+Yhteistyö organisaatioiden kanssa 00.04.02
+
+Lausuntojen antaminen ulkopuolisille tahoille (viranomainen, kuntaliitto, järjestö
+
+ym.)
+
+00.04.03
+
+HENKILÖSTÖASIAT 01
+
+Henkilöstöasioiden ohjaus 01.00
+
+Työnantaja- ja henkilöstöpolitiikka 01.00.00
+
+Yleiset virka- ja työehtosopimusasiat 01.00.01
+
+Paikalliset virka- ja työehtosopimukset ja paikallisneuvottelut 01.00.01.00
+
+Kaupungin soveltamisohjeet ja määräykset 01.00.01.01
+
+Palvelussuhdekäsikirjan laatiminen 01.00.01.01.00
+
+27.04.2017
+
+TEHTÄVÄLUOKITUS 4(29)
+
+Henkilöstösuunnittelu ja raportointi 01.00.02
+
+Kaupunkitasoisen henkilöstösuunnitelman laatiminen 01.00.02.00
+
+Henkilöstökertomuksen laatiminen 01.00.02.01
+
+Tehtäväkuvausten laatiminen / tallentaminen 01.00.02.02
+
+Palvelussuhdeasiat 01.01
+
+Palvelussuhdeasiat 01.01.00
+
+Vakanssin perustaminen, vakanssin perustietojen muuttaminen ja vakanssin
+
+lakkauttaminen
+
+01.01.00.00
+
+Virantoimitusvelvollisuudessa ja virkasuhteessa tapahtuvat muutokset 01.01.00.01
+
+Rekrytointi ja palvelussuhteeseen valitseminen 01.01.01
+
+Täyttöluvan hakeminen 01.01.01.00
+
+Rekrytointi ja päätöksen tekeminen valinnasta /virat 01.01.01.01
+
+Rekrytointi / työsuhteiset 01.01.01.02
+
+Palvelussuhteen aloittaminen 01.01.02
+
+Vaitiolo-, käyttäjä- ja tietoturvasitoumuksen tekeminen / tallentaminen 01.01.02.05
+
+Palvelussuhteen hoitaminen 01.01.03
+
+Viranhaltijan sivutoimilupa 01.01.03.00
+
+Kirjallisen varoituksen antaminen 01.01.03.03
+
+Virantoimituksesta pidättäminen 01.01.03.04
+
+Palvelussuhteen päättyminen 01.01.04
+
+Irtisanoutuminen sekä osa-aikaeläkkeelle ja
+
+kuntoutustuelle siirtyminen, eläkkeelle siirtyminen
+
+01.01.04.00.
+
+Virkasuhteesta irtisanoutuminen ja viran haettavaksi julistaminen, eläkkeelle ja
+
+kuntoutustuelle siirtyminen sekä viranhaltijan koeaikapurku
+
+01.01.04.00.00
+
+Irtisanominen ja työsuhteen purkaminen 01.01.04.01
+
+Virkasuhteen irtisanominen ja purkaminen 01.01.04.01.00
+
+Palkan, palkkioiden ja korvausten maksaminen 01.02
+
+Palkan, palkkioiden ja palkanlisien perusteiden laskenta 01.02.00
+
+Virkavapaiden, työlomien ja vastaavien myöntäminen sekä perhe- ja
+
+opintovapaat, vuorotteluvapaat
+
+01.02.00.01
+
+27.04.2017
+
+TEHTÄVÄLUOKITUS 5(29)
+
+Palkan, palkkioiden, palkanlisien maksaminen ja
+
+luontaisedut
+
+01.02.01
+
+Palkkauksesta, lisistä, palkkioista, palkitsemisjärjestelmän mukaisista palkoista
+
+tai muusta taloudellisesta menetyksestä/etuudesta päättäminen
+
+01.02.01.00
+
+Palkan takaisin periminen 01.02.01.05
+
+Luontoisedun myöntäminen 01.02.01.07
+
+Matkustus 01.02.02
+
+Henkilöstön palkitseminen 01.02.03
+
+Ansiomerkit 01.02.03.00
+
+Kunniamerkit 01.02.03.01
+
+Arvonimet 01.02.03.02
+
+Merkkipäivien huomioiminen 01.02.03.03
+
+Osaamisen kehittäminen 01.03
+
+Henkilöstön koulutus ja kehittäminen 01.03.00
+
+Perehdyttäminen 01.03.00.00
+
+Koulutusohjelman / -suunnitelman laatiminen 01.03.00.01
+
+Koulutukseen hakeutuminen (ei valmis) 01.03.00.02
+
+Omaehtoisen koulutuksen tukeminen 01.03.01
+
+Tukipäätöksen tekeminen (ei valmis) 01.03.01.00
+
+Työhyvinvoinnin edistäminen 01.04
+
+Työsuojelu ja työturvallisuus 01.04.00
+
+Työsuojeluorganisaation toiminta 01.04.00.00
+
+Työsuojelu- ja työympäristösopimus ja työsuojeluvaalit 01.04.00.00.00
+
+Työsuojelun toimintaohjelman laatiminen 01.04.00.00.01
+
+Työsuojeluviranomaisen tarkastus 01.04.00.01
+
+Työterveyshuolto, ODOTTAA 01.04.01
+
+Ennaltaehkäisevä työterveyshuolto ja sairaudenhoito 01.04.01.01
+
+Työterveystarkastukset 01.04.01.01.00
+
+Työpaikkaselvitykset 01.04.01.01.01
+
+Työterveyshuollon toimintasuunnitelmat 01.04.01.01.02
+
+Kuntoutus 01.04.01.01.03
+
+Muu ennaltaehkäisevä työterveyshuolto 01.04.01.01.04
+
+Työterveyshuollon järjestäminen 01.04.01.00
+
+27.04.2017
+
+TEHTÄVÄLUOKITUS 6(29)
+
+Muu työterveyshuollon toiminta 01.04.01.02
+
+Henkilöstöruokailu, ODOTTAA 01.04.02
+
+Henkilöstöruokailun järjestäminen 01.04.02.00
+
+Virkistys- ja harrastustoiminta 01.04.03
+
+Liikunnan ja kulttuurin tukeminen 01.04.03.00
+
+TALOUSASIAT, VEROTUS JA OMAISUUDEN HALLINTA
+
+JA HANKINTA
+
+02
+
+Talouden suunnittelu, strategian laadinta ja seuranta 02.01
+
+Talousarvion ja -suunnitelman laadinta, käyttösuunnitelmat ja määrärahanjako 02.01.00
+
+Talousarvion ja -suunnitelman laadinta, käyttösuunnitelmat ja määrärahajako /
+
+tuloarviomuutokset
+
+02.01.00.00
+
+Talousarvion ja -suunnitelman laadintaohjeet 02.01.00.01
+
+Toimintaympäristöanalyysit 02.01.00.02
+
+Talousarvion ja -suunnitelman sekä sitovien tavoitteiden laadinta 02.01.00.03
+
+Määrärahamuutosesitykset / päätökset 02.01.00.04
+
+Määrärahajako / toimialat 02.01.00.05
+
+Toimialojen tuloskortit 02.01.00.06
+
+Valtuustokauden strategian laadinta 02.01.01
+
+Valtuustokauden strategian laadinta 02.01.01.00
+
+Seuranta ja ohjaus 02.01.02
+
+Talousraportointi 02.01.02.00
+
+Sitovien tavoitteiden raportointi 02.01.02.01
+
+Konserniyhtiöiden Navigoinnit 02.01.02.02
+
+Kaupunginjohtajan toimialaneuvottelut ja -tapaamiset 02.01.02.03
+
+Valtuustokauden strategian raportointi 02.01.02.04
+
+Toimialojen tuloskorttien raportointi 02.01.02.05
+
+Itsearviointi ja laadun kehittäminen 02.01.03
+
+Verotus 02.02
+
+Kaupungin verotulot 02.02.00
+
+Verovapautukset 02.02.01
+
+Rahoitus ja varainhallinta 02.03
+
+Maksuperusteiden määrääminen ja määräytyminen 02.03.00
+
+Taksojen ja maksujen määrääminen 02.03.00.00
+
+Jäsenmaksujen ja maksuosuuksien määräytyminen 02.03.00.01
+
+Maksuhuojennukset ja -vapautukset sekä saatavista luopuminen 02.03.00.02
+
+27.04.2017
+
+TEHTÄVÄLUOKITUS 7(29)
+
+Tuet ja avustukset 02.03.01
+
+Valtionosuudet ja rahoitusavustukset (sis. myös harkinnanvaraiset) 02.03.01.00
+
+Kunnan myöntämät tuet ja avustukset 02.03.01.03
+
+Sponsorointi 02.03.01.04
+
+Antolainaus 02.03.03
+
+Antolainaus konserni- ym. yhteisöille 02.03.03.00
+
+Sosiaalinen luototus 02.03.03.01
+
+Asuntolainarahasto 02.03.03.02
+
+Ottolainaus 02.03.04
+
+Ottolainaus 02.03.04.00
+
+Johdannaissopimuksen tekeminen 02.03.05
+
+Johdannaissopimuksen tekeminen 02.03.05.00
+
+Sijoitustoiminta 02.03.06
+
+Lyhytaikainen varojen sijoitus (talletukset, rahasto ja arvopaperisijoitus) 02.03.06.00
+
+Pitkäaikainen varojen sijoitus (osake-, omistusosuus-, rahasto- ja
+
+arvopaperisijoitus)
+
+02.03.06.01
+
+Takaukset ja vakuudet/myöntäminen ja hallinnointi 02.03.07
+
+Rahastot 02.03.08
+
+Kirjanpito, maksuliikenne ja tilinpäätöksen laatiminen 02.04
+
+Pankkipalveluiden hallinta 02.04.00
+
+Kassatoiminnot 02.04.01
+
+Sisäisen pankin toiminta (konsernitilin hallinta) 02.04.02
+
+Kirjanpito, tilinpäätöksen laatiminen 02.04.03
+
+Laskentatunnisteiden perustietojen ylläpito 02.04.03.00
+
+Arvonlisäverotilitykset 02.04.03.01
+
+Käyttöomaisuuskirjanpito 02.04.03.02
+
+Tilinpäätöksen laatiminen 02.04.03.03
+
+Konsernitilinpäätöksen laatiminen 02.04.03.04
+
+Kirjanpidon korjaukset 02.04.03.05
+
+Reskontrat 02.04.04
+
+Ostolaskutus ja ostoreskontra 02.04.04.00
+
+Myyntilaskutus ja myyntireskontra 02.04.04.01
+
+Maksuliikenne 02.04.05
+
+Matkalaskut 02.04.06
+
+Perintä ja maksukyvyttömyysasiat 02.04.07
+
+Konkurssiperintä, velkajärjestelyt, yrityssaaneeraukset, konkurssit,
+
+konkurssivalvonta, ulosottotoimet, pakkohuutokaupat
+
+02.04.07.00
+
+Omaisuuden hallinta 02.05
+
+Irtaimistoluettelointi (ensikertaiseen kalustamiseen sisältyvät ja
+
+käyttötalousmäärärahoilla hankitut
+
+02.05.01
+
+27.04.2017
+
+TEHTÄVÄLUOKITUS 8(29)
+
+Perintö- ja lahjoitusasiat (lahjoitukset, kuolinpesät, testamentit, valtionperinnöt) 02.05.02
+
+Omaisuuden hallinta 02.05.03
+
+Kiinteän omaisuuden hallinta (myynti ja osto) 02.05.03.00
+
+Osakkeiden hallinta (myynti ja osto) 02.05.03.01
+
+Hankintatoimi 02.08
+
+Palveluiden ja tavaroiden hankinta 02.08.00
+
+Hankinnat 02.08.00.00
+
+Varastointi, painatus ja sisäiset kuljetukset 02.08.01
+
+Omien palveluiden ja tuotteiden myynti ja vuokraus 02.09
+
+Palveluiden ja tuotteiden myyntiin ja vuokraukseen liittyvä
+
+ohjaus
+
+02.09.00
+
+Palveluiden ja tuotteiden myynti ja vuokraus 02.09.01
+
+Palveluiden ja tuotteiden myynti ja vuokraus 02.09.01.01
+
+LAINSÄÄDÄNTÖ JA LAINSÄÄDÄNNÖN SOVELTAMINEN 03
+
+Kansallisten lakien ja asetusten säätäminen 03.00
+
+Lausuntojen antaminen lakien ja asetusten säätämiseksi 03.00.00
+
+Oikeudellisten etujen valvonta 03.01
+
+Oikeudenkäynnit ja hallintoriita-asiat 03.01.00
+
+Oikeudenkäynnit, hallintoriita-asiat ja kaupungin edustaminen oikeusistuimissa 03.01.00.00
+
+Vahingonkorvausasiat 03.01.02
+
+Vahingonkorvausvastuu 03.01.02.00
+
+Vahingonkorvaukset 03.01.02.01
+
+Kantelujen, muistutusten, potilasvahinkoasioiden ja
+
+yleisten valitusten käsittely
+
+03.02
+
+Kanteluiden ja yleisten valitusten käsittely 03.02.00
+
+Muistutusten, kanteluiden ja potilasvahinkoasioiden käsittely (soster) 03.02.01
+
+Sopimuksen purkaminen 03.03
+
+Sopimuksen purkaminen 03.03.00
+
+27.04.2017
+
+TEHTÄVÄLUOKITUS 9(29)
+
+KANSAINVÄLINEN TOIMINTA JA YHTEISTYÖ 04
+
+Kansainvälisten asioiden ohjaus 04.00
+
+Kansainvälisten asioiden ohjaus 04.00.00
+
+Kansainväliseen toimintaan osallistuminen 04.01
+
+Kansainvälisten organisaatioiden toimintaan osallistuminen 04.01.01
+
+Kansainväliseen yhteistoimintaan osallistuminen 04.01.02
+
+Ystävyyskaupunkitoiminta 04.01.02.00
+
+SOSIAALIHUOLTO 05
+
+Sosiaalihuollon kehittäminen, ohjaus ja valvonta 05.00
+
+Sosiaalihuollon kehittäminen ja suunnittelu 05.00.00
+
+Sosiaalihuollon ohjaus ja valvonta (yksityisten sosiaalipalvelujen laadun
+
+valvonta)
+
+05.00.01
+
+Sosiaali- ja kriisipäivystys 05.01
+
+Sosiaali- ja kriisipäivystyksen kehittäminen ja ohjaus 05.01.00
+
+Asiakaskohtainen työ 05.01.01
+
+Poliisin sosiaalityö 05.01.02
+
+Valtakunnallinen valmius 05.01.03
+
+Lastensuojelu ja perheiden palvelut 05.02
+
+Lastensuojelun ja perheiden palvelujen kehittäminen ja ohjaus 05.02.00
+
+Asiakaskohtainen työ 05.02.01
+
+Vammaisten palvelut 05.03
+
+Vammaisten palvelujen kehittäminen ja ohjaus 05.03.00
+
+Asiakaskohtainen työ 05.03.01
+
+Vanhusten palvelut 05.04
+
+Vanhusten palvelujen kehittäminen ja ohjaus 05.04.00
+
+Asiakaskohtainen työ 05.04.01
+
+Päihdehuolto 05.05
+
+Päihdehuollon palvelujen kehittäminen ja ohjaus 05.05.00
+
+Asiakaskohtainen työ 05.05.01
+
+Toimeentulo, maahanmuutto ja sosiaalinen kuntoutus 05.06
+
+27.04.2017
+
+TEHTÄVÄLUOKITUS 10(29)
+
+Toiminnan kehittäminen ja ohjaus 05.06.00
+
+Asiakaskohtainen työ 05.06.01
+
+Sosiaalinen työhön kuntoutus ja työllistämispalvelut 05.06.02
+
+Sosiaalihuoltolain mukaiset aikuisten palvelut 05.07
+
+Toiminnan kehittäminen ja ohjaus 05.07.00
+
+Asiakaskohtainen työ 05.07.01
+
+Sosiaalityö ja sosiaaliohjaus 05.07.02
+
+Omaishoito 05.08
+
+Omaishoidon kehittäminen ja ohjaus 05.08.00
+
+Asiakaskohtainen työ 05.08.01
+
+Kotihoito 05.09
+
+Toiminnan kehittäminen ja ohjaus 05.09.00
+
+Asiakaskohtainen työ 05.09.01
+
+Lasten päivähoito 05.10
+
+Lasten päivähoidon yleinen järjestäminen, ohjaus ja
+
+valvonta
+
+05.10.00
+
+Vantaan varhaiskasvatussuunnitelman laatiminen 05.10.00.00
+
+Toimintayksikön varhaiskasvatussuunnitelman laatiminen 05.10.00.01
+
+Toimintayksikön työsuunnitelmien laatiminen 05.10.00.02
+
+Yksityisen päivähoidon valvonta 05.10.00.03
+
+Ohjeistaminen 05.10.00.04
+
+Tilastojen tuottaminen 05.10.00.05
+
+Palvelusetelituottajan valinta 05.10.00.06
+
+Lasten päivähoidon asiakaskohtainen työ 05.10.01
+
+Päivähoitoon hakeminen 05.10.01.00
+
+Päivähoidon aloittaminen ja oleminen 05.10.01.01
+
+Hoitoapupalvelu 05.10.01.02
+
+Maksupäätöksen tekeminen 05.10.01.03
+
+Hoitopaikkatakuun myöntäminen 05.10.01.04
+
+Palvelusetelin hakeminen 05.10.01.05
+
+Palvelusetelin arvon määrittely 05.10.01.06
+
+Muu viranomaisyhteistyö 05.11
+
+Virka-apupyyntö 05.11.00
+
+27.04.2017
+
+TEHTÄVÄLUOKITUS 11(29)
+
+Tutkintapyyntö poliisille 05.11.01
+
+TERVEYDENHUOLTO 06
+
+Palveluprosessin hallinta 06.00
+
+Hoidon järjestäminen 06.00.00
+
+Perusterveydenhuollon suunnittelu ja järjestäminen 06.00.00.00
+
+Erikoissairaanhoidon suunnittelu ja järjestäminen 06.00.00.01
+
+Toimintamallit ja poikkeusjärjestelyt 06.00.00.02
+
+Hoitotakuun toteutuminen 06.00.00.03
+
+Ohjeistaminen 06.00.00.04
+
+Perustietojen ylläpito 06.00.01
+
+Potilasasiakirjojen käytön ja luovutusten hallinta 06.00.02
+
+Ennaltaehkäisevä terveydenhoito 06.01
+
+Terveysneuvonta 06.01.00
+
+Terveysneuvonta 06.01.00.00
+
+Perhesuunnitteluneuvola 06.01.00.01
+
+Äitiysneuvola 06.01.00.02
+
+Lastenneuvola 06.01.00.03
+
+Koulu- ja opiskeluterveydenhuolto 06.01.00.04
+
+Neuvolan perhetyö 06.01.00.05
+
+Seulonta 06.01.01
+
+Ensihoito ja sairaankuljetus, TARKENTUU 06.02
+
+Suunnittelu 06.02.00
+
+Ensihoito ja sairaankuljetus 06.02.01
+
+Seuranta ja raportointi 06.02.02
+
+Potilaan hoito, TARKENTUU 06.03
+
+Potilaan hoito 06.03.00
+
+Terveydenhoidolliset / sairaanhoidolliset palvelut 06.04
+
+Kuvantaminen 06.04.00
+
+Labotatoriotoiminta 06.04.01
+
+27.04.2017
+
+TEHTÄVÄLUOKITUS 12(29)
+
+Vainajaan liittyvät terveydenhuollon tehtävät 06.05
+
+Vainajaan liittyvät terveydenhuollon tehtävät 06.05.00
+
+Potilaan hoitoon liittyvä yhteistyö 06.06
+
+Organisaatioiden välinen tiedonvaihto 06.06.00
+
+Virka-aputehtävät 06.06.01
+
+Tukipalvelut 06.07
+
+Välinehuolto ja hoitotarvikepalvelut 06.07.00
+
+Välinehuolto 06.07.00.00
+
+Hoitotarvikepalvelut 06.07.00.01
+
+Apuvälinepalvelut 06.07.01
+
+Apteekkitoiminta 06.07.02
+
+Lääkintätekniikka 06.07.03
+
+TIEDONHALLINTA JA VIESTINTÄPALVELUT 07
+
+Tiedonhallinnan ja viestintäpalvelujen ohjaus 07.00
+
+Tiedon hallinta ja tietopalvelu 07.01
+
+Tietoturvallisuus 07.01.00
+
+Sähköisen asioinnin järjestäminen 07.01.02
+
+Asiakirjahallinta 07.01.03
+
+Tiedonohjauksen ja arkistonmuodostuksen suunnittelu 07.01.03.00
+
+Asiakirjallisen tietoaineiston dokumentointi ja luovutus 07.01.03.01
+
+Tilastointi 07.01.04
+
+Vantaata koskevat tilastot 07.01.04.00
+
+Seudulliset tilastot 07.01.04.01
+
+Tilastojulkaisut 07.01.04.02
+
+Tilastollisten aluejakojen ylläpito (kaupunginosajako) 07.01.04.03
+
+Henkilörekisterinpito 07.01.05
+
+Rekistereiden käyttöoikeudet (henkilörekisterit) 07.01.05.00
+
+Tietojen luovutus henkilörekisteristä 07.01.05.01
+
+Henkilörekisterissä olevien tietojen tarkistus ja korjaus (rekisteröidyn
+
+tarkastusoikeus)
+
+07.01.05.02
+
+Tietosuojaselosteet (rekisteriselosteet) 07.01.05.03
+
+Rekisteri- ja paikkatietojen hallinta, ylläpito ja luovuttaminen 07.01.06
+
+Käyttöoikeuksien hallinta 07.01.06.00
+
+Ylläpito, tarkistukset ja korjaukset 07.01.06.01
+
+Tietojen luovuttaminen ja julkaisu 07.01.06.02
+
+27.04.2017
+
+TEHTÄVÄLUOKITUS 13(29)
+
+Tietojärjestelmäselosteiden ja -kuvausten laatiminen 07.01.06.03
+
+Asiakirjallisen tiedon luovuttaminen 07.01.07
+
+Viestintä ja markkinointi 07.02
+
+Viestintä- ja markkinointisuunnitelmat 07.02.00
+
+Viestintä/markkinointisuunnitelman laatiminen 07.02.00.00
+
+Viestintäkanavista päättäminen (viralliset ilmoitukset) 07.02.00.01
+
+Suhdetoiminta ja maineenhallinta 07.02.02
+
+Tapahtumien ja juhlien järjestäminen 07.02.02.00
+
+Edustaminen ja vierailut 07.02.02.01
+
+Palkitseminen ja huomioiminen 07.02.02.02
+
+Tiedotteen, julkaisun, ilmoituksen, artikkelin, esittelyaineiston, puheen
+
+laatiminen
+
+07.02.01
+
+Tietojärjestelmien kehittäminen ja ylläpito 07.03
+
+Infrapalvelut 07.03.02
+
+Laitehallinta 07.03.02.00
+
+Palvelimet ja tietoliikenne 07.03.02.01
+
+Ohjelmisto/Järjestelmäpalvelut 07.03.03
+
+Ohjelmien jakelu 07.03.03.00
+
+Järjestelmien ylläpito 07.03.03.01
+
+Ohjelmisto-omaisuuden hallinta 07.03.03.02
+
+Käyttäjähallinta 07.03.04
+
+Roolien ja tunnusten hallinta 07.03.04.00
+
+Käyttäjähallinnan suunnittelu 07.03.04.01
+
+Muutoshallinta 07.03.00
+
+Käytön tuki 07.03.01
+
+LIIKENNE 08
+
+Liikenteen suunnittelu ja kehittäminen 08.00
+
+Liikenteen suunnittelu, kehittäminen, ohjaus ja ylläpito 08.00.00
+
+Liikennepolitiikka 08.00.00.00
+
+Strateginen suunnittelu 08.00.00.01
+
+Liikenneturvallisuus 08.00.00.02
+
+Liikenteen selvitykset ja suunnitelmat 08.00.00.03
+
+Joukkoliikenteen toimintaedellytykset 08.00.00.04
+
+Liikennetutkimukset 08.00.00.05
+
+27.04.2017
+
+TEHTÄVÄLUOKITUS 14(29)
+
+Liikennepalvelut 08.01
+
+Joukkoliikenteen toiminnallinen suunnittelu ja
+
+tuottaminen
+
+08.01.00
+
+Kuljetusten järjestäminen 08.01.01
+
+Vammais- ja sairaankuljetukset 08.01.01.00
+
+Koululais- ja varhaiserityiskasvatus kuljetukset 08.01.01.01
+
+Liikenteen valvonta 08.01.03
+
+Pysäköinnin valvontasopimusten laatiminen 08.01.03.00
+
+Pysäköintivirhemaksujen määrääminen 08.01.03.01
+
+Ajoneuvojen siirtäminen 08.01.03.02
+
+TURVALLISUUS JA YLEINEN JÄRJESTYS 09
+
+Turvallisuus- ja yleisten järjestelyasioiden ohjaus 09.00
+
+Turvallisuus- ja yleisten järjestelyasioiden ohjaus 09.00.00
+
+Turvallisuus 09.01
+
+Valvonta 09.01.00
+
+Valvonnan suunnittelu ja toteutus 09.01.00.00
+
+Omavalvonnan ohjaus ja toteutus 09.01.00.01
+
+Kohdekohtainen lausunnointi 09.01.00.02
+
+Kemikaalivalvonta 09.01.01
+
+Valvonnan suunnittelu ja toteutus 09.01.01.00
+
+Tarkastustoiminta 09.01.01.01
+
+Kohdekorttien lausunnointi 09.01.01.02
+
+Nuohous 09.01.02
+
+Nuohouksen järjestäminen 09.01.02.00
+
+Suuret yleisötilaisuudet 09.01.03
+
+Ilmoitusten vastaanotto 09.01.03.00
+
+Pelastussuunnittelun ohjaus ja tarkastukset 09.01.03.01
+
+Onnettomuuksien tutkinta 09.01.04
+
+27.04.2017
+
+TEHTÄVÄLUOKITUS 15(29)
+
+Pelastustoiminta poikkeusoloissa 09.01.05
+
+Turvallisuuskoulutus 09.01.06
+
+Lausuntojen antaminen ulkopuolisille 09.01.07
+
+Pelastustustoiminta 09.02
+
+Vähimmäispalvelutason määritys ja ylläpito 09.02.00
+
+Päivittäiset onnettomuudet 09.02.01
+
+Suuronnettomuudet ja häiriötilanteet 09.02.02
+
+Vesipelastustoiminta 09.02.03
+
+Vaarallisten aineiden torjunta 09.02.04
+
+Öljytorjunta 09.02.05
+
+Yhteistoiminta sopimuspalokuntien kanssa 09.02.06
+
+Lausuntojen antaminen ulkopuolisille 09.02.07
+
+Tukipalvelut 09.04
+
+Paineilmahuolto 09.04.00
+
+Viestihuolto 09.04.01
+
+Ajoneuvohuolto 09.04.02
+
+Varushuolto 09.04.03
+
+Pelastus- ja ensihoitokalusto 09.04.04
+
+Valmiussuunnittelu ja poikkeusoloihin varautuminen 09.05
+
+Valmiussuunnittelu 09.05.00
+
+27.04.2017
+
+TEHTÄVÄLUOKITUS 16(29)
+
+Valmiussuunnitelman laatiminen 09.05.00.00
+
+Vantaan kaupunkikonsernin valmiusohje 09.05.00.01
+
+Turvallisuussuunnittelu 09.05.00.02
+
+Lausuntojen antaminen ulkopuolisille 09.05.00.03
+
+Kiinteistökohtaiset pelastussuunnitelmat 09.05.00.04
+
+Varautumis- ja valmiussuunnittelu 09.05.00.05
+
+Väestön suojaaminen / suojautuminen 09.05.01
+
+Väestönsuojelu 09.05.01.00
+
+Väestönsuojelun suunnittelu 09.05.01.00.00
+
+Väestön varoittaminen 09.05.01.00.01
+
+Väestönsuojelun organisointi 09.05.01.00.02
+
+Väestön suojaaminen 09.05.01.00.03
+
+Evakuointisuunnitelman laatiminen 09.05.01.01
+
+MAANKÄYTTÖ, RAKENTAMINEN JA ASUMINEN 10
+
+Maankäytön, rakentamisen ja asumisen ohjaus 10.00
+
+Maapolitiikan hoito 10.00.00
+
+Maapoliittisten linjausten laatiminen 10.00.00.00
+
+Maanhankinta 10.00.01
+
+Maan ostaminen ja vaihtaminen 10.00.01.00
+
+Etuosto-oikeus 10.00.01.01
+
+Ennakkolausunto 10.00.01.01.00
+
+Etuosto-oikeuden käyttäminen tai käyttämättä jättäminen 10.00.01.01.01
+
+Lunastaminen 10.00.01.02
+
+Lunastusluvanvarainen lunastus 10.00.01.02.00
+
+Lunastuslupaa edellyttämätön lunastus 10.00.01.02.01
+
+Velvollisuuslunastukset 10.00.01.02.02
+
+Katualueen haltuunotto ja korvaaminen 10.00.01.03
+
+Maan vuokraus kunnalle 10.00.01.04
+
+Maankäyttösopimukset 10.00.01.05
+
+Maan luovutus 10.00.02
+
+Tonttien ja tontinosien myynti ja rakentamisvelvoitteiden seuranta 10.00.02.00
+
+27.04.2017
+
+TEHTÄVÄLUOKITUS 17(29)
+
+Tonttien myynti ostotarjousten perusteella ja rakentamisvelvoitteiden seuranta 10.00.02.01
+
+Tonttien vuokraus 10.00.02.02
+
+Muun maan myynti 10.00.02.03
+
+Muun maan vuokraus 10.00.02.04
+
+Muun maan vuokraus 10.00.02.04.00
+
+Metsästysvuokrasopimukset 10.00.02.04.01
+
+Kilpailutettava muun maan vuokraus 10.00.02.04.02
+
+Alueiden luovuttaminen käytettäväksi 10.00.02.05
+
+Maanomistajan muut tehtävät 10.00.03
+
+Maanomistajan luvat ja lausunnot 10.00.03.00
+
+Rasite- ja yhteisjärjestelysopimukset 10.00.03.01
+
+Maanmittaustoimitusten hakeminen 10.00.03.02
+
+Maanmittaustoimituksiin osallistuminen 10.00.03.03
+
+Maaomaisuuden valvonta ja hoito 10.00.03.04
+
+Maankäytön toteutuksen ohjelmointi (MTO) 10.00.04
+
+Kauppahintarekisterin ylläpito 10.00.05
+
+Tietoimitus 10.00.06
+
+Maanmittaus ja maaperätutkimus 10.01
+
+Kiinteistönmuodostus ja tonttijaot 10.01.00
+
+Tonttijaon laatiminen 10.01.00.00
+
+Kiinteistötoimituksen suorittaminen 10.01.00.01
+
+Kiinteistörekisterin pitäjän päätöksen tekeminen 10.01.00.02
+
+Kiinteistön luovutuksen vahvistaminen 10.01.00.03
+
+Maa- ja kallioperätutkimukset, ODOTTAA 10.01.01
+
+Pohjatutkimukset 10.01.01.00
+
+Pohjavesimittaukset 10.01.01.01
+
+Maalaboratoriotutkimukset 10.01.01.02
+
+Ympäristötekniset tutkimukset 10.01.01.03
+
+Tärinämittaukset 10.01.01.04
+
+Kaavoitus 10.02
+
+Kaavoituksen suunnittelu 10.02.00
+
+27.04.2017
+
+TEHTÄVÄLUOKITUS 18(29)
+
+Suunnitteluohjelma 10.02.00.00
+
+Kaavoituskatsaus 10.02.00.01
+
+Kaavoituksen seuranta ja ajantasaisuus 10.02.00.02
+
+Kuntien yhteinen yleiskaavoitus 10.02.01
+
+Kuntien yhteisen yleiskaavan laatiminen, hyväksyminen ja
+
+vahvistaminen
+
+10.02.01.00
+
+Yleiskaavoitus ja osayleiskaavoitus 10.02.02
+
+Yleiskaavan laatiminen ja hyväksyminen 10.02.02.00
+
+Osa-yleiskaavan laatiminen ja hyväksyminen 10.02.02.01
+
+Yleiskaava- tai osa-yleiskaavamuutoksen laatiminen ja hyväksyminen 10.02.02.02
+
+Yleiskaavan tai osa-yleiskaavan kumoaminen 10.02.02.03
+
+Yleissuunnitelmat 10.02.03
+
+Asemakaavoitus 10.02.04
+
+Asemakaavan laatiminen 10.02.04.00
+
+Asemakaavamuutoksen laatiminen 10.02.04.01
+
+Asemakaavamuutos / kumoaminen 10.02.04.02
+
+Ajantasa-asemakaavan tallentaminen 10.02.04.03
+
+Ranta-asemakaavoitus 10.02.05
+
+Ranta-asemakaavan laatiminen 10.02.05.00
+
+Ranta-asemakaavamuutoksen laatiminen 10.02.05.01
+
+Ranta-asemakaavan kumoaminen 10.02.05.02
+
+Rakennuskieltojen ja toimenpidekieltojen sekä -rajoitusten asettaminen 10.02.06
+
+Nimistö- ja osoiteasiat 10.02.07
+
+Kadun tai muun nimen antaminen ja muuttaminen 10.02.07.00
+
+Osoitenumeron vahvistaminen 10.02.07.01
+
+Kortteli- ja tonttinumeroiden antaminen ja muuttaminen 10.02.07.02
+
+Erillisselvitykset, -suunnitelmat ja ohjeet 10.02.08
+
+Erillisselvitysten ja inventointien laatiminen 10.02.08.00
+
+Erillissuunnitelmien laatiminen 10.02.08.01
+
+Erillisohjeiden laatiminen 10.02.08.02
+
+Kuuluttaminen 10.02.09
+
+Rakentaminen, ylläpito ja käyttö 10.03
+
+Rakennusvalvonta 10.03.00
+
+Rakennusjärjestys 10.03.00.00
+
+Poikkeamismenettely 10.03.00.01
+
+Suunnittelutarveratkaisu 10.03.00.02
+
+Rakennuslupa 10.03.00.03
+
+27.04.2017
+
+TEHTÄVÄLUOKITUS 19(29)
+
+Toimenpidelupa 10.03.00.04
+
+Purkaminen 10.03.00.05
+
+Maisematyölupa 10.03.00.06
+
+Aloittamisoikeus 10.03.00.07
+
+Z-lausunto, toimenpiteen vähäisyyden arviointi 10.03.00.08
+
+Rakennusrasite ja kiinteistön yhteisjärjestely 10.03.00.09
+
+Rakennetun ympäristön jatkuva valvonta 10.03.00.10
+
+Lausunnot 10.03.00.11
+
+Yleisten aluieden suunnittelu, rakenteminen ja
+
+kunnossapito
+
+10.03.01
+
+Suunnitelmien ja ohjelmien laatiminen 10.03.01.00
+
+Lupien käsittely 10.03.01.01
+
+Katujen yleiseen käyttöön luovuttaminen 10.03.01.02
+
+Kunnallistekniikan rakentaminen ja rakennuttaminen 10.03.01.03
+
+Kunnossapito 10.03.01.04
+
+Maa- ja metsätilojen hoito 10.03.01.05
+
+Kiinteistöjen suunnittelu, rakentaminen, ylläpito ja käyttö 10.03.02
+
+Investointisuunnittelu ja hankekehitys 10.03.02.00
+
+Tarveselvitykset ja hankesuunnittelu 10.03.02.01
+
+Suunnittelupalvelu 10.03.02.02
+
+Rakentaminen ja valvonta 10.03.02.03
+
+Kosteusvauriot 10.03.02.04
+
+Toimitilojen hankinta, omistuskohde 10.03.02.05
+
+Toimitilojen hankinta vuokraamalla 10.03.02.06
+
+Toimitilojen hankinta, investorikohde 10.03.02.07
+
+Vuosikorjaustyöt 10.03.02.08
+
+Ennakoimaton korjaus 10.03.02.09
+
+Tilojen käyttö, vuokraus 10.03.02.10
+
+Ohjeistaminen 10.03.02.11
+
+Kiinteistön omistajan lupa/suostumus 10.03.02.12
+
+Asuminen 10.04
+
+Asuntotuotannon ohjaus 10.04.00
+
+Asunto-ohjelman laatiminen 10.04.00.00
+
+Asuntorakentamisennusteen laatiminen 10.04.00.01
+
+ARA asuntojen käytön, asukasvalintojen ja vuokranmäärityksen valvonta 10.04.01
+
+ARA asuntojen käytön, asukasvalintojen ja vuokranmäärityksen valvonta 10.04.01.00
+
+Asuntojen vuokraus 10.04.02
+
+27.04.2017
+
+TEHTÄVÄLUOKITUS 20(29)
+
+Liiketilojen vuokraus 10.04.02.00
+
+Palvelussuhdeasuntojen vuokraus 10.04.02.01
+
+Asuntojen vuokraus 10.04.02.02
+
+Asunnon vuokraus, salainen 10.04.02.03
+
+Arava- ja korkotukilainojen käsittely 10.04.04
+
+Laina-aikaiset muutokset 10.04.04.00
+
+Lainahakemusmenettely 10.04.04.01
+
+Korjaus-, energia- ja hissiavustusten myöntäminen 10.04.03
+
+YMPÄRISTÖASIAT 11
+
+Ympäristöasioiden ohjaus 11.00
+
+Kaupungin ympäristöpolitiikan, -ohjelmien laadinta ja
+
+seuranta
+
+11.00.00
+
+Ympäristöpolitiikan laatiminen 11.00.00.00
+
+Toimialojen ja kaupungin ympäristöohjelmien laatiminen 11.00.00.01
+
+Sektorikohtaiset ympäristönsuojelun ohjelmat ja
+
+toimenpidesuunnitelmat ja niiden seuranta
+
+11.00.01
+
+Lakisääteiset ohjelmat ja suunnitelmat 11.00.01.00
+
+Muut ohjelmat ja toimenpidesuunnitelmat 11.00.01.01
+
+Lausunnot ohjelmista ja strategioista 11.00.01.02
+
+Lainsäädäntö ja määräykset 11.00.02
+
+Ympäristönsuojelumääräykset 11.00.02.00
+
+Jätehuoltomääräykset 11.00.02.01
+
+Ympäristövaikutusten arviointimenettely 11.00.03
+
+Lausunnot ympäristövaikutusten arviointimenettelystä 11.00.03.00
+
+Ympäristöviestinnän, neuvonnan ja ohjauksen
+
+järjestäminen
+
+11.00.04
+
+Ympäristökoulutuksen, -neuvonnan, ja -tapahtuminen järjestäminen 11.00.04.00
+
+Ympäristöraportointi 11.00.05
+
+Ympäristöraportti 11.00.05.00
+
+Ympäristönsuojelu 11.01
+
+27.04.2017
+
+TEHTÄVÄLUOKITUS 21(29)
+
+Valvonnan suunnittelu ja raportointi 11.01.00
+
+Valvontasuunnitelman laadinta ja hyväksyminen 11.01.00.00
+
+Raportointi ja arviointi 11.01.00.01
+
+Muiden valvontasuunnitelmat 11.01.00.02
+
+Ympäristösuojelulain lupa- ja ilmoitusasiat 11.01.01
+
+Ympäristöluvan käsittely 11.01.01.00
+
+Ilmoitus erityisen häiritsevää melua aiheuttavasta tilapäisestä toiminnasta 11.01.01.01
+
+Ilmoitus koeluonteisesta toiminnasta 11.01.01.02
+
+Ilmoitus poikkeuksellisesta tilanteesta 11.01.01.03
+
+Tietojärjestelmään merkittävät toiminnot 11.01.01.04
+
+Öljysäiliön jättäminen maahan 11.01.01.05
+
+Jätteen hyötykäyttö rakentamisessa 11.01.01.06
+
+Nitraattiasetuksen mukainen valvontailmoitus 11.01.01.07
+
+Lupa jäteveden johtamiseen toiseen ojaan 11.01.01.08
+
+Muiden lupaviranomaisten asiat 11.01.01.09
+
+Vesilain lupa- ja ilmoitusasiat 11.01.02
+
+Vesilain mukaiset ilmoitukset 11.01.02.00
+
+Muiden lupaviranomaisten asiat 11.01.02.01
+
+Vesiliikennelain lupa-asiat 11.01.03
+
+Vesiliikennelain mukaisten kilpailujen tai harjoitusten luvat 11.01.03.00
+
+Muiden lupaviranomaisten asiat 11.01.03.01
+
+Maastoliikennelain lupa-asiat 11.01.04
+
+Maastoliikennelain mukaisten kilpailujen ja harjoitusten luvat 11.01.04.00
+
+Muiden lupaviranomaisten asiat 11.01.04.01
+
+Luonnonsuojelu 11.01.05
+
+Luontotyypin ja erityisesti suojellun lajin suojelupäätös kaupungin omistamalla
+
+maalla
+
+11.01.05.00
+
+Luontotyypin ja erityisesti suojellun lajin suojelupäätös yksityisen omistamalla
+
+maalla
+
+11.01.05.01
+
+Luontomuistomerkin rauhoittaminen 11.01.05.02
+
+Luonnonsuojelualueen rauhoittaminen / yksityinen 11.01.05.03
+
+Luonnonsuojelualueen rauhoittaminen / kunta 11.01.05.04
+
+Luonnonsuojelualueen rauhoituksen purkaminen 11.01.05.05
+
+Luonnonsuojelualueiden ja korvaavien elinympäristöjen hoito- ja
+
+käyttösuunnitelmien laadinta
+
+11.01.05.06
+
+Vesi- ja jätevesihuollon lupa-asiat 11.01.06
+
+27.04.2017
+
+TEHTÄVÄLUOKITUS 22(29)
+
+Vapautushakemus liittymisvelvollisuudesta (vesi/viemäri/hulevesi) 11.01.06.00
+
+Jätehuollon lupa-asiat 11.01.07
+
+Muiden lupaviranomaisten asiat 11.01.07.00
+
+Jätetiedostoon merkitsemiset 11.01.07.01
+
+Maa-aineslain lupa-asiat 11.01.08
+
+Maa-ainesluvan käsittely 11.01.08.00
+
+Muiden lupaviranomaisten asiat 11.01.08.01
+
+Ympäristöterveydenhuolto 11.02
+
+Valvonnan suunnittelu ja raportointi 11.02.00
+
+Valvontasuunnitelman laadinta ja hyväksyminen 11.02.00.00
+
+Raportointi ja arviointi 11.02.00.01
+
+Elintarvikevalvonta 11.02.01
+
+Elintarvikehuoneiston hyväksyminen 11.02.01.00
+
+Ilmoitus toiminnan aloittamisesta 11.02.01.01
+
+Lausunnon antaminen 11.02.01.02
+
+Ruokamyrkytysepäily 11.02.01.03
+
+Asiakasvalitus 11.02.01.04
+
+Ilmoitus alkutuotannosta 11.02.01.05
+
+Toiminnan aikainen valvonta 11.02.01.06
+
+Ilmoitus elintarvikkeiden kontaktimateriaaleista 11.02.01.07
+
+Kuluttajaturvallisuus 11.02.02
+
+Ilmoitus toiminnan aloittamisesta 11.02.02.00
+
+Lausunnon antaminen 11.02.02.01
+
+Vaarailmoitus 11.02.02.02
+
+Asiakasvalitus 11.02.02.03
+
+Toiminnan aikainen valvonta 11.02.02.04
+
+Terveydensuojelu 11.02.03
+
+Ilmoitus toiminnan aloittamisesta 11.02.03.00
+
+Ilmoitus toiminnanharjoittajan vaihtumisesta 11.02.03.01
+
+Talousvettä toimittavan laitoksen hyväksyminen 11.02.03.02
+
+Koulujen, päiväkotien ja hoitolaitosten terveyshaittaepäilyn selvittäminen 11.02.03.03
+
+Asunnon terveyshaittaepäilyn selvittäminen 11.02.03.04
+
+Asunnon siivottomuusepäilyn selvittäminen 11.02.03.05
+
+27.04.2017
+
+TEHTÄVÄLUOKITUS 23(29)
+
+Lausunnon antaminen 11.02.03.06
+
+Asiakasvalitus 11.02.03.07
+
+Ruumiin siirtäminen 11.02.03.08
+
+Toiminnan aikainen valvonta 11.02.03.09
+
+Terveydensuojelujärjestyksen laatiminen 11.02.03.10
+
+Tupakka- ja nikotiinikorvausasiat 11.02.04
+
+Nikotiinikorvausvalmisteiden vähittäismyyntiluvan myöntäminen / päättyminen 11.02.04.00
+
+Tupakkatuotteiden vähittäismyyntiluvan myöntäminen / päättyminen 11.02.04.01
+
+Lausunnon antaminen 11.02.04.02
+
+Asiakasvalitus 11.02.04.03
+
+Toiminnan aikainen valvonta 11.02.04.04
+
+Eläinsuojelu 11.02.05
+
+Eläinsuojeluvalvonta 11.02.05.00
+
+Lausunnon antaminen 11.02.05.01
+
+Eläinlääkintähuolto 11.02.06
+
+Vastaanottotoiminta 11.02.06.00
+
+Eläintautivalvonta 11.02.06.01
+
+Lausunnon antaminen 11.02.06.02
+
+Ympäristövalvonta ja -haittojen ehkäisy 11.03
+
+Rikos- ja hallintapakkoasiat 11.03.00
+
+Ympäristörikoksesta ilmoittaminen 11.03.00.00
+
+Ympäristönsuojelulain mukainen muu valvonta 11.03.00.01
+
+Hallintopakkoasian käsittely 11.03.00.02
+
+Vesihuoltolain mukainen valvonta 11.03.00.03
+
+Ilmansuojelu 11.03.01
+
+Ilman laatuun liittyvät lausunnot 11.03.01.00
+
+Jätehuollon valvonta 11.03.02
+
+Roskaantumisen valvonta 11.03.02.00
+
+Purkuilmoitukset 11.03.02.01
+
+Kuormantarkastukset 11.03.02.02
+
+Ympäristöä haittaava rakennustyö 11.03.02.03
+
+Jätteiden käsittelyn valvonta 11.03.02.04
+
+27.04.2017
+
+TEHTÄVÄLUOKITUS 24(29)
+
+Vesiasioiden valvonta 11.03.03
+
+Ojitus ja pintavesien hallinta 11.03.03.00
+
+Jätevesien käsittelyn valvonta 11.03.03.01
+
+Vesilain mukaiset kaivoasiat ja veden ottaminen 11.03.03.02
+
+Pintavesien käsittelyn valvonta 11.03.03.03
+
+Ympäristön tilan seuranta 11.03.04
+
+Luontoselvitykset 11.03.04.00
+
+Ilman laadun seuranta 11.03.04.01
+
+Meluseuranta 11.03.04.02
+
+Maaperän tilan seuranta 11.03.04.03
+
+Pintavesitarkkailu 11.03.04.04
+
+Pohjavesitarkkailu 11.03.04.05
+
+Maaperän suojelu ja valvonta 11.03.05
+
+Leirintäalueet 11.03.06
+
+Leirintäalueista ilmoittaminen 11.03.06.00
+
+Maa-aineslain valvonta 11.03.07
+
+Ilmoitus (MAL 23a§) vuosittaisesta otosta 11.03.07.00
+
+Muu maa-aineslain mukainen valvonta 11.03.07.01
+
+Ympäristönsuojelulain valvonta 11.03.08
+
+Lupa/ilmoitus/rekisteröitävän laitoksen toiminnan valvonta 11.03.08.00
+
+Muiden valvontasuunnitelmien mukaisten laitosten toiminnan valvonta 11.03.08.01
+
+Melu, pöly, haju 11.03.08.02
+
+Vesi ja maaperä 11.03.08.03
+
+Muut päästöt 11.03.08.04
+
+Lumen vastaanottopaikkojen valvonta 11.03.08.05
+
+Eläinsuojien valvonta 11.03.08.06
+
+OPETUS- JA SIVISTYSTOIMI 12
+
+Opetus- ja sivistystoimen ohjaus 12.00
+
+Opetus- ja sivistystoimen suunnittelu 12.00.00
+
+Kasvatus- ja koulutuspoliittisen ohjelman laatiminen 12.00.00.00
+
+Muiden sivistystoimen poliittisten ohjelmien laatiminen 12.00.00.01
+
+Lausuntojen ja selvitysten antaminen ulkopuolisille 12.00.00.02
+
+Järjestyssääntöjen laatiminen 12.00.00.03
+
+27.04.2017
+
+TEHTÄVÄLUOKITUS 25(29)
+
+Koulutuksen ja opetuksen suunnittelu 12.00.01
+
+Kasvatuksen, koulutuksen ja opetuksen kuntakohtaiset linjaukset 12.00.01.00
+
+Koulutuksen järjestämisluvat 12.00.01.01
+
+Opetussuunnitelmien laatiminen 12.00.01.02
+
+Lukuvuosisuunnitelmien tallentaminen 12.00.01.03
+
+Muiden suunnitelmien ja ohjelmien laatiminen 12.00.01.04
+
+Kokeilu- ja kehittämistoiminta 12.00.01.05
+
+Muun sivistystoimen suunnittelu 12.00.02
+
+Suunnitelmien ja ohjelmien laatiminen 12.00.02.00
+
+Muun sivistystoimen kuntakohtaiset linjaukset 12.00.02.01
+
+Toiminnan arviointi 12.00.03
+
+Sisäinen arvionti 12.00.03.00
+
+Ulkoinen arvionti 12.00.03.01
+
+Ohjeistaminen 12.00.04.
+
+Tilastojen tuottaminen 12.00.05
+
+Oppilas- ja opiskelija-asiat 12.01
+
+Oppilasvalinnat ja opiskelijaksiotto 12.01.00
+
+Esiopetukseen ottaminen 12.01.00.00
+
+Poikkeava koulun aloitus 12.01.00.01
+
+Valmistavaan opetukseen ottaminen 12.01.00.02
+
+Lähikoulupaikan määrääminen 12.01.00.03
+
+Toissijainen oppilaaksiotto 12.01.00.04
+
+Joustavaan perusopetukseen ottaminen 12.01.00.05
+
+Oppivelvollisuuden valvonta 12.01.00.06
+
+Yhteishaku 12.01.00.07
+
+Yhteishaun ulkopuolinen opiskelijaksiotto 12.01.00.08
+
+Oppisopimus 12.01.00.09
+
+Oppisopimuksen solmiminen 12.01.00.09.00
+
+Oppisopimuksen muutokset 12.01.00.09.01
+
+Aikuisopiston kurssi- ja kielitutkinto ilmoittautumiset 12.01.00.11
+
+Musiikkiopistoon ilmoittautuminen 12.01.00.12
+
+Kuvataidekouluun ilmoittautuminen 12.01.00.13
+
+Oppilaan ja opiskelijan arviointi 12.01.01
+
+Todistukset 12.01.01.00
+
+Muu oppilaan/opiskelijan arviointi 12.01.01.01
+
+Itsearviointi 12.01.01.01.00
+
+Arviointikeskustelut 12.01.01.01.01
+
+Kirjallinen väliarviointi 12.01.01.01.02
+
+Ammattiosaamisen näytöt 12.01.01.02
+
+27.04.2017
+
+TEHTÄVÄLUOKITUS 26(29)
+
+Arvioinnin uusiminen ja oikaisu 12.01.01.03
+
+Työssäoppimisen arviointi 12.01.01.04
+
+Opintojen hyväksi lukeminen 12.01.01.05
+
+Osaamisen tunnistaminen ja tunnustaminen 12.01.01.06
+
+Hylätyn arvosanan uusiminen 12.01.01.07
+
+Arvosanan korottaminen 12.01.01.08
+
+Ylioppilastutkinnon suorittaminen 12.01.01.09
+
+Oppilaan ja opiskelijan opetuksen järjestäminen 12.01.02
+
+Musiikkiopisto 12.01.02.18
+
+Esiintymismatkojen järjestäminen 12.01.02.18.00
+
+Konsertin/tapahtuman järjestäminen 12.01.02.18.01
+
+Soitinlainaus 12.01.02.18.02
+
+Soitinhuolto 12.01.02.18.03
+
+Kuvataidekoulu 12.01.02.19
+
+Erityiset opetusjärjestelyt 12.01.02.10
+
+Oppiaineen opetuksesta vapauttaminen ja korvaavan opetuksen järjestäminen 12.01.02.10.00
+
+Kotona tai muussa soveltuvassa paikassa annettu opetus sekä koulupäivän
+
+lyhentäminen
+
+12.01.02.10.01
+
+Valinnaisaineen valinta 12.01.02.00
+
+Valinnaisen aineen vaihtaminen toiseksi 12.01.02.01
+
+Oppilaan ja opiskelijan oppimisen tukeminen 12.01.02.02
+
+Opetuksen antaminen erityisopetuksena 12.01.02.03
+
+Opiskelun erityinen tuki 12.01.02.04
+
+Opiskeluajan pidentäminen 12.01.02.05
+
+Opintojen tilapäinen keskeyttäminen 12.01.02.06
+
+Tulkitsemis- ja avustajapalveluiden käyttäminen 12.01.02.07
+
+Koulun ja oppilaitoksen ulkopuolella annettava opetus 12.01.02.08
+
+Opetukseen osallistumisesta vapauttaminen tilapäisesti 12.01.02.09
+
+Oppimäärän valinta 12.01.02.11
+
+Vuosiluokkiin sitomaton opetus 12.01.02.12
+
+Työelämään tutustuminen 12.01.02.13
+
+Työssäoppiminen 12.01.02.14
+
+Henkilökohtaisen opetussuunnitelman laatiminen 12.01.02.15
+
+Näyttötutkintojen henkilökohtaistaminen 12.01.02.16
+
+Opiskelijan eroaminen ja toteaminen eronneksi 12.01.02.17
+
+Oppilas- ja opiskelijahuolto 12.01.03
+
+Aamu- ja iltapäivätoiminta 12.01.03.00
+
+Järjestämispaikoista päättäminen 12.01.03.00.00
+
+Aamu- ja iltapäivätoimintaan valinta 12.01.03.00.01
+
+Palveluntuottajien valinta 12.01.03.00.02
+
+27.04.2017
+
+TEHTÄVÄLUOKITUS 27(29)
+
+Oppilas- ja opiskelijahuoltotyön toteuttaminen 12.01.03.01
+
+Oppilas- ja opiskelijahuoltoryhmän toiminta 12.01.03.01.00
+
+Yksittäisen opiskelijan asian käsittely 12.01.03.01.01
+
+Koulun kerhotoiminta 12.01.03.05
+
+Ojentaminen ja kurinpito 12.01.04
+
+Kirjallisen varoituksen antaminen 12.01.04.00
+
+Määrääminen jälki-istuntoon 12.01.04.01
+
+Tehtävien tekeminen koulupäivän jälkeen 12.01.04.02
+
+Oppilaan ja opiskelijan opetukseen osallistumisen epääminen 12.01.04.03
+
+Erottaminen määräajaksi 12.01.04.04
+
+Oppilaan/opiskelijan poistaminen luokasta, opetustilasta tai koulun
+
+järjestämästä tilaisuudesta
+
+12.01.04.05
+
+Ylioppilaskirjoituksiin osallistumisen epääminen 12.01.04.06
+
+Kodin ja koulun/oppilaitoksen välinen yhteistyö 12.01.05
+
+Oppilaskuntatoiminta 12.01.06
+
+Palkitseminen ja stipendit 12.01.07
+
+Opiskelijavaihto 12.01.08
+
+Kulttuuripalvelut 12.02
+
+Kulttuuritoimi 12.02.01
+
+Kulttuuritapahtumat 12.02.01.00
+
+Ohjattu toiminta (kurssit, tilaisuudet tapahtumat, leirit, koulutus, työpajat,
+
+taiteilijoiden vierailut sairaaloihin ja laitoksiin)
+
+12.02.01.01
+
+Kirjastotoiminta 12.02.02
+
+Lainaustoiminta ja -valvonta 12.02.02.01
+
+Asiakkuuden aloittaminen 12.02.02.01.00
+
+Lainaaminen ja palauttaminen 12.02.02.01.01
+
+Aineiston ja kokoelmien ylläpito 12.02.02.00
+
+Ohjattu toiminta, kirjailijavierailut ja tapahtumat 12.02.02.02
+
+Hakeutuva kirjasto (kirjastoautot) 12.02.02.03
+
+Museotoiminta 12.02.03
+
+Näyttelytoiminta 12.02.03.00
+
+Kokoelmanhallinta 12.02.03.01
+
+Museopedagogiikka 12.02.03.02
+
+Tutkimustyö 12.02.03.03
+
+Kulttuuritoimen suunnittelu ja ohjaus 12.02.00
+
+27.04.2017
+
+TEHTÄVÄLUOKITUS 28(29)
+
+Liikuntapalvelut 12.03
+
+Liikunnan ohjaustoiminta 12.03.00
+
+Ohjattu liikunta 12.03.00.00
+
+Kampanjat ja tapahtumat 12.03.00.01
+
+Liikuntalaitos- ja ulkoliikuntapalvelut 12.03.01
+
+Nuorisopalvelut 12.04
+
+Nuorisotyö 12.04.00
+
+Nuorten työpajatoiminta 12.04.01
+
+TUTKIMUS- JA KEHITTÄMISTOIMINTA 13
+
+Tutkimus- ja kehittämistoiminnan ohjaus 13.00
+
+Tutkimusluvan myöntäminen 13.00.00
+
+Tutkimus- ja kehittämistoiminnan suunnittelu,
+
+järjestäminen ja toteuttaminen
+
+13.01
+
+Kyselytutkimukset 13.01.00
+
+Rekisteriaineistotutkimukset 13.01.01
+
+ELINKEINO- JA TYÖVOIMAPALVELUT 14
+
+Elinkeinopolitiikan ohjaus 14.00
+
+Elinkeinotoiminnan suunnittelu ja kehittäminen 14.00.00
+
+Elinvoimaohjelman laatiminen 14.00.01
+
+Kansalliset kehittämisohjelmat 14.00.02
+
+Yritystoiminnan kehittäminen 14.01
+
+Yritystapahtumat ja yritysyhteistyö 14.01.00
+
+Yritysneuvonnan kehittäminen 14.01.01
+
+Maahanmuuttajien yritystoiminta 14.01.02
+
+Matkailun kehittäminen 14.02
+
+Matkailustrategia 14.02.00
+
+Matkailuneuvonta 14.02.01
+
+27.04.2017
+
+TEHTÄVÄLUOKITUS 29(29)
+
+Maaseudun elinkeinotoiminta 14.03
+
+Kalatalous 14.03.03
+
+Kalastusmääräykset 14.03.03.00
+
+Kalastuslupien myyntipaikkojen määrittely 14.03.03.01
+
+Kalastusvalvontasopimusten tekeminen 14.03.03.02
+
+Onginta-, pilkintä- ja viehekalastuskieltojen hakeminen 14.03.03.03
+
+Kalastustuksenvalvontasopimusten tekeminen vapaaehtoisten
+
+kalastuksenvalvojien kanssa
+
+14.03.03.04
+
+Kalatalousedun valvonta 14.03.03.05
+
+Työllisyyden edistäminen 14.07
+
+Työllisyyden edistämisen suunnittelu ja kehittäminen 14.07.00
+
+Työllisyyttä tukevien palvelujen tuottaminen 14.07.01
+
+Työllisyyden tukeminen (kesätyöseteli, kuukausittaiset työllistämistuet, ltk
+
+avustukset)
+
+14.07.01.00
+
+Tukityöllistäminen (palkkatukityöllistämiseen liittyvät asiat) 14.07.01.01
+
+Talous- ja velkaneuvonta 14.08
+
+Talous- ja velkaneuvonta 14.08.00
+
+KUNTATOIMISTON VANHAT DIAARIT 1993-2013 15
+
+Kuntatoimiston diaarista siirretyt asiat 15.00
+
+Kuntatoimiston hallintodiaarista siirretyt asiat 15.00.00
+
+Kuntatoimiston soster diaarista siirretyt asiat 15.00.01
+
+ASTAttomat asiat, vain kirjaajien käytössä 15.00.02

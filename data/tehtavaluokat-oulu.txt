@@ -1,0 +1,1193 @@
+# Tämän tiedoston sisältö on kopioitu (copy+paste)
+# Tweb Oulun kaupunki TEHTÄVÄLUOKITUS 28.02.2017 -dokumentista
+# lukuunottamatta '#'-merkillä alkavia rivejä
+
+00 HALLINTOASIAT
+
+00.00 Hallintoasioiden ohjaus
+
+00.00.00 Vaalien järjestäminen
+
+00.00.00.00 Eduskuntavaalit
+
+00.00.00.01 EU-vaalit
+
+00.00.00.02 Presidentin vaalit
+
+00.00.00.03 Kunnallisvaalit
+
+00.00.00.04 Neuvoa antavat kansanäänestykset
+
+00.00.00.05 Vaalien järjestäminen
+
+00.00.01 Toimielinten ja luottamuselinten asettaminen, kokoonpano ja jäsenten valinta
+
+00.00.01.00 Toimielinten ja luottamuselinten asettaminen, kokoonpano ja jäsenten valinta
+
+00.00.01.01 Toimikuntien ja työryhmien asettaminen, kokoonpano ja jäsenten valinta
+
+00.01 Toiminnan suunnittelu, järjestäminen, toteuttaminen ja kehittäminen
+
+00.01.00 Perustaminen, lakkauttaminen, yhdistäminen ja yhteistyö
+
+00.01.00.00 Kunta, kuntayhtymä ja liikelaitoskuntayhtymä
+
+00.01.00.01 Alueliitokset
+
+00.01.00.02 Liikelaitokset
+
+00.01.00.03 Osakeyhtiöt
+
+00.01.00.04 Virastot ja laitokset
+
+00.01.00.05 Yhteispalvelu
+
+00.01.01 Hallinnon järjestäminen
+
+00.01.01.00 Sääntöohjaus
+
+00.01.01.01 Toiminnan ohjeistus
+
+00.01.02 Toiminnan suunnittelu ja seuranta
+
+00.01.03 Toiminnan arviointi ja kehittäminem
+
+00.01.04 Riskien hallinta
+
+28.02.2017
+
+Oulun kaupunki TEHTÄVÄLUOKITUS 2(24)
+
+00.01.05 Ohjelma-, hanke- ja projektitoiminta
+
+00.02 Päätöksenteko ja johtaminen
+
+00.02.00 Valtuuston päätöksenteko
+
+00.02.01 Hallituksen päätöksenteko
+
+00.02.02 Lautakuntien päätöksenteko
+
+00.02.03 Johto- ja toimikuntien päätöksenteko
+
+00.02.05 Johtoryhmätyöskentely
+
+00.03 Tarkastustoimi
+
+00.03.00 Ulkoinen toiminnan, hallinnon ja talouden valvonta
+
+00.03.00.00 Arviointi
+
+00.03.00.01 Tilintarkastus
+
+00.03.00.02 Tarkastus
+
+00.03.01 Sisäinen toiminnan, hallinnon ja talouden valvonta
+
+00.04 Kotimainen yhteistyö
+
+00.04.00 Kunta-valtio yhteistyö
+
+00.04.01 Seudullinen ja kuntien välinen yhteistyö
+
+00.04.02 Yhteistyö organisaatioiden kanssa
+
+01 HENKILÖSTÖASIAT
+
+01.00 Henkilöstöasioiden ohjaus
+
+01.00.00 Työnantaja - ja henkilöstöpolitiikka
+
+01.00.01 Yleiset virka- ja työehtosopimusasiat
+
+01.00.02 Henkilöstösuunnittelu ja -raportointi
+
+01.01 Palvelussuhdeasiat
+
+28.02.2017
+
+Oulun kaupunki TEHTÄVÄLUOKITUS 3(24)
+
+01.01.00 Perustaminen, muuttaminen ja lakkauttaminen
+
+01.01.01 Rekrytointi ja palvelussuhteeseen valitseminen
+
+01.01.01.00 Täyttöluvan hakeminen
+
+01.01.01.01 Vakinaiset ja määräaikaiset
+
+01.01.01.02 Sijaiset
+
+01.01.01.04 Vuokratyövoiman käyttö
+
+01.01.01.05 Siviilipalvelus
+
+01.01.01.06 Työharjoittelu ja oppisopimus
+
+01.01.01.08 Tukityöllistäminen ja työkokeilut
+
+01.01.02 Palvelussuhteen aloittaminen
+
+01.01.03 Palvelussuhteen hoitaminen
+
+01.01.03.00 Sivutoimen hoitaminen
+
+01.01.03.01 Työajan käyttö
+
+01.01.03.02 Työntekijän sijoittaminen
+
+01.01.03.03 Vuosilomat ja säästövapaat
+
+01.01.03.05 Virka- ja työvapaat
+
+01.01.03.07 Harkinnanvaraiset virka- ja työvapaat
+
+01.01.03.09 Perhevapaat
+
+01.01.03.10 Sairauslomat
+
+01.01.03.11 Työtapaturmat ja työmatkatapaturmat
+
+01.01.03.12 Virkamatkat
+
+01.01.03.13 Kehityskeskustelut
+
+01.01.03.14 Työn arviointi
+
+01.01.03.15 Palvelussuhderikkomukset ja kurinpitotoimet
+
+01.01.03.16 Päihdeongelmaisen hoitoonohjaus
+
+01.01.03.17 Uranvaihto terveydellisistä syistä
+
+01.01.03.19 Osa- ja määräaikaiset eläkeratkaisut
+
+01.01.03.23 Lomauttaminen
+
+01.01.04 Palvelussuhteen päättyminen
+
+28.02.2017
+
+Oulun kaupunki TEHTÄVÄLUOKITUS 4(24)
+
+01.02 Palkan, palkkioiden ja korvausten maksaminen
+
+01.02.00 Palkan, palkkioiden ja palkanlisien perusteiden laskenta
+
+01.02.01 Palkan, palkkioiden, palkanlisien maksaminen ja luontaisedut
+
+01.02.01.00 Palkan laskenta
+
+01.02.01.01 Henkilökohtainen lisä
+
+01.02.01.02 Vuosisidonnainen osa ja ammattialalisäpalkat
+
+01.02.01.03 Luontaisedut
+
+01.02.01.04 Luottamusmiespalkkiot
+
+01.02.01.05 Kokouspalkkiot ja osallistumispalkkiot
+
+01.02.01.06 Palkkaveloitukset
+
+01.02.02 Matkustus
+
+01.02.03 Henkilöstön palkitseminen
+
+01.03 Osaamisen kehittäminen
+
+01.03.00 Henkilöstön koulutus ja kehittäminen
+
+01.03.01 Omaehtoisen koulutuksen tukeminen
+
+01.04 Työhyvinvoinnin edistäminen
+
+01.04.00 Yhteistoiminta-asiat
+
+01.04.01 Työsuojelu- ja työturvallisuus
+
+01.04.02 Työterveyshuolto
+
+01.04.02.00 Työterveyshuollon järjestäminen
+
+01.04.02.01 Työterveystarkastukset
+
+01.04.02.02 Työpaikkaselvitykset
+
+01.04.02.03 Kuntoutus
+
+01.04.03 Henkilöstöruokailu
+
+01.04.04 Virkistys- ja harrastustoiminta
+
+28.02.2017
+
+Oulun kaupunki TEHTÄVÄLUOKITUS 5(24)
+
+02 TALOUSASIAT, VEROTUS JA OMAISUUDEN HALLINTA
+
+02 00 Talousasioiden ohjaus
+
+02.00.00 Talousasioiden ohjaus
+
+02.01 Talouspolitiikka
+
+02.02 Talouden suunnittelu ja seuranta
+
+02.02.00 Talousarvion laatiminen
+
+02.02.02 Talouden seuranta
+
+02.03 Verotus
+
+02.03.02 Kunnallinen verottaminen
+
+02.04 Tullitoiminta
+
+02.05 Rahoitus ja varainhallinta
+
+02.05.00 Maksuperusteiden määrääminen ja määräytyminen
+
+02.05.01 Tuet ja avustukset
+
+02.05.01.00 Valtionosuudet ja rahoitusavustukset
+
+02.05.01.01 Kuntien yhdistymisavustukset
+
+02.05.01.02 Kunnan itselleen hakemat avustukset
+
+02.05.01.03 Kunnan myöntämät avustukset
+
+02.05.02 Hankerahoitus
+
+02.05.02.01 EU-tuet ja avustukset
+
+02.05.02.02 Kansallinen rahoitus
+
+02.05.02.03 TE-keskusrahoitus
+
+02.05.03 Antolainaus
+
+02.05.04 Ottolainaus
+
+28.02.2017
+
+Oulun kaupunki TEHTÄVÄLUOKITUS 6(24)
+
+02.05.04.00 Arava- ja korkotukilainojen käsittely
+
+02.05.04.01 Ottolainaus
+
+02.05.05 Sijoitustoiminta
+
+02.05.06 Takauksien ja vakuuksien hallinta
+
+02.06 Kirjanpito ja maksuliikenne
+
+02.06.00 Pankkipalveluiden hallinta
+
+02.06.01 Kirjanpito
+
+02.06.01.00 Perustietojen ylläpito
+
+02.06.01.01 Arvonlisäverotilitykset
+
+02.06.01.02 Käyttöomaisuuskirjanpito
+
+02.06.01.03 Tilinpäätöksen laatiminen
+
+02.06.01.04 Konsernitilinpäätöksen laatiminen
+
+02.06.01.05 Ostolaskutus ja ostoreskontra
+
+02.06.01.06 Myyntilaskutus ja myyntireskontra
+
+02.06.02 Kassatoiminnot
+
+02.06.03 Sisäisen pankin toiminta
+
+02.06.04 Perintä- ja maksukyvyttömyysasiat
+
+02.07 Omaisuuden hallinta
+
+02.07.00 Kiinteän omaisuuden hallinta
+
+02.07.01 Irtaimen ja käyttöomaisuuden hallinta
+
+02.07.02 Perintö- ja lahjoitusasiat
+
+02.08 Hankintatoimi
+
+02.08.00 Tavaroiden hankinta
+
+02.08.01 Palveluiden hankinta
+
+02.08.02 Urakat
+
+02.08.03 Omien kuljetusten järjestäminen
+
+28.02.2017
+
+Oulun kaupunki TEHTÄVÄLUOKITUS 7(24)
+
+02.09 Omien palvelujen ja tuotteiden myynti
+
+02.09.00 Palvelujen ja tuotteiden myynti ja myynnin ohjaus
+
+02.09.01 Irtaimen omaisuuden myynti
+
+03 LAINSÄÄDÄNTÖ JA LAINSÄÄDÄNNÖN SOVELTAMINEN
+
+03.00 Kansallisten lakien ja asetusten säätäminen
+
+03.01 EU-lainsäädäntö
+
+03.02 Lainsäädännön ja lainsäädännön soveltamisen ohjaus
+
+03.03 Lainsäädännön soveltaminen
+
+03.04 Laillisuusvalvonta
+
+03.05 Henkilöstöoikeus
+
+03.06 Oikeudellisten etujen valvonta
+
+03.06.00 Oikeudenkäynnit
+
+03.06.00.00 Riita- ja rikosasiat
+
+03.06.01 Työriitojen sovittelu
+
+03.06.02 Vahingonkorvausasiat
+
+03.06.02.00 Virkamiehen vahingonkorvausvastuu
+
+03.06.02.01 Omaisuuteen ja henkilöön kohdistuvat vahingot
+
+03.06.03 Muistutusten, kanteluiden ja potilasvahinkoasioiden käsittely
+
+04 ULKOPOLITIIKKA JA KANSAINVÄLINEN TOIMINTA
+
+28.02.2017
+
+Oulun kaupunki TEHTÄVÄLUOKITUS 8(24)
+
+04.00 Kansainvälisten asioiden ohjaus
+
+04.01 Ulkoasiainhallinta
+
+04.02 Kehityspolitiikka
+
+04.03 Maahanmuuttopolitiikka
+
+04.04 Kansainväliseen toimintaan osallistuminen
+
+04.04.00 Jäsenyyksien hoitaminen kansainvälisissä organisaatioissa
+
+04.04.01 Kansainvälisten organisaatioiden toimintaan osallistuminen
+
+04.04.02 Kansainväliseen yhteistoimintaan osallistuminen
+
+05 SOSIAALITOIMI JA SOSIAALITURVA
+
+05.00 Sosiaalihuollon järjestäminen ja ohjaus
+
+05.00.00 Sosiaalihuollon yleinen järjestäminen, ohjaus ja valvonta
+
+05.00.01 Sosiaalihuollon yleisen järjestämisen asiakaskohtainen työ
+
+05.01 Adoptioneuvonta
+
+05.01.00 Adoptioneuvonnan yleinen järjestäminen, ohjaus ja valvonta
+
+05.01.01 Kotimainen adoptio
+
+05.02 Isyyden selvittäminen
+
+05.02.00 Isyyden selvittämisen yleinen järjestäminen, ohjaus ja valvonta
+
+05.02.01 Isyyden selvittämisen asiakaskohtainen työ
+
+05.03 Kasvatus- ja perheneuvonta
+
+28.02.2017
+
+Oulun kaupunki TEHTÄVÄLUOKITUS 9(24)
+
+05.03.00 Kasvatus- ja perheneuvonnan yleinen järjestäminen, ohjaus ja valvonta
+
+05.03.01 Kasvatus- ja perheneuvonnan asiakaskohtainen työ
+
+05.03.02 Kasvatus- ja perheneuvonnan ryhmä- ja yhteisötyö
+
+05.04 Kehitysvammaisten erityishuolto
+
+05.04.00 Kehitysvammaisten erityishuollon yleinen järjestäminen, ohjaus ja valvonta
+
+05.04.01 Kehitysvammaisten erityishuollon asiakaskohtainen työ
+
+05.05 Kotipalvelut
+
+05.05.00 Kotipalvelujen yleinen järjestäminen, ohjaus ja valvonta
+
+05.05.01 Kotipalvelujen asiakaskohtainen työ
+
+05.06 Lapsen elatusavun vahvistaminen
+
+05.06.00 Lapsen elatusavun vahvistamisen yleinen järjestäminen, ohjaus ja valvonta
+
+05.06.01 Lapsen elatusavun vahvistamisen asiakaskohtainen työ
+
+05.07 Lapsen huolto ja tapaamisoikeus
+
+05.07.00 Lapsen huollon ja tapaamisoikeuden yleinen järjestäminen, ohjaus ja valvonta
+
+05.07.01 Lapsen huollon ja tapaamisoikeuden varmistamisen asiakaskohtainen työ
+
+05.08 Lapsen huollon ja tapaamisen täytäntöönpanosovittelu
+
+05.08.00 Lapsen huollon ja tapaamisoikeuden täytäntöönpanon sovittelun yleinen järjestäminen, ohjaus ja valvonta
+
+05.08.01 Lapsen huollon ja tapaamisoikeuden täytäntöönpanon asiakaskohtainen työ
+
+05.09 Lastensuojelu
+
+05.09.00 Lastensuojelun yleinen järjestäminen, ohjaus ja valvonta
+
+05.09.01 Lastensuojelun asiakaskohtainen työ
+
+05.10 Lasten päivähoito
+
+28.02.2017
+
+Oulun kaupunki TEHTÄVÄLUOKITUS 10(24)
+
+05.10.00 Lasten päivähoidon yleinen järjestäminen, ohajus ja valvonta
+
+05.10.01 Lasten päivähoidon asiakaskohtainen työ
+
+05.11 Maahanmuuttajien kotouttaminen
+
+05.11.00 Maahanmuuttajien kotoutumisen yleinen järjestäminen, ohjaus ja valvonta
+
+05.11.01 Maahanmuuttajien kotoutumisen asiakaskohtainen työ
+
+05.11.02 Maahanmuuttajien kotoutumisen ryhmä- ja yhteisötyö
+
+05.12 Omaishoidon tukeminen
+
+05.12.00 Omaishoidon tuen yleinen järjestäminen, ohjaus ja valvonta
+
+05.12.01 Omaishoidon tuen asiakaskohtainen työ
+
+05.12.02 Omaishoidon tukemisen ryhmä- ja yhteisötyö
+
+05.13 Perheasioiden sovittelu
+
+05.13.00 Perheasioiden sovittelun yleinen järjestäminen, ohjaus ja valvonta
+
+05.13.01 Perheasioiden sovittelun asiakaskohtainen työ
+
+05.14 Puolison elatusavun vahvistaminen
+
+05.14.00 Puolison elatusavun vahvistamisen yleinen järjestäminen, ohjaus ja valvonta
+
+05.14.01 Puolison elatusavun asiakaskohtainen työ
+
+05.15 Päihdehuolto
+
+05.15.00 Päihdehuollon yleinen järjestäminen, ohjaus ja valvonta
+
+05.15.01 Päihdehuollon asiakaskohtainen työ
+
+05.15.02 Päihdehuollon ryhmä- ja yhteisötyö
+
+05.16 Sosiaaliasiamiestoiminta
+
+05.16.00 Sosiaaliasiamiestoiminnan yleinen järjestäminen, ohjaus ja valvonta
+
+05.16.01 Sosiaaliasiamiestoiminnan asiakaskohtainen työ
+
+28.02.2017
+
+Oulun kaupunki TEHTÄVÄLUOKITUS 11(24)
+
+05.16.02 Sosiaaliasiamiestoiminnan ryhmä- ja yhteisötyö
+
+05.17 Sosiaalihuoltolain mukaiset palvelut
+
+05.17.00 Sosiaalihuoltolain mukaisten palveluiden yleinen järjestäminen, ohjaus ja valvonta
+
+05.17.01 Sosiaalihuoltolain mukaisten palveluiden asiakaskohtainen työ
+
+05.17.02 Sosiaalihuoltolain mukaisten palveluidenryhmä- ja yhteisötyö
+
+05.18 Sosiaalinen luototus
+
+05.18.00 Sosiaalisen luototuksen yleinen järjestäminen, ohjaus ja valvonta
+
+05.18.01 Sosiaalisen luototuksen asiakaskohtainen työ
+
+05.19 Toimeentulotuki
+
+05.19.00 Toimeentulotuen yleinen järjestäminen, ohjaus ja valvonta
+
+05.19.01 Toimeentulotuen asiakaskohtainen työ
+
+05.20 Pitkäaikaistyöttömien työllistymisen tukeminen
+
+05.20.00 Pitkäaikaistyöttömien työllistymisen tukemisen yleinen järjestäminen, ohjaus ja valvonta
+
+05.20.01 Pitkäaikaistyöttömien työllistymisen tukemisen asiakaskohtainen työ
+
+05.20.02 Pitkäaikaistyöttömien työllistymisen tukemisen ryhmä ja yhteisötyö
+
+05.21 Vammaispalvelut
+
+05.21.00 Vammaispalvelujen yleinen järjestäminen, ohjaus ja valvonta
+
+05.21.01 Vammaispalvelujen asiakaskohtainen työ
+
+05.21.02 Vammaispalvelujen ryhmä- ja yhteisötyö
+
+05.22 Vammaisten henkiöiden työllistymisen tukeminen
+
+05.22.00 Vammaisten henkilöiden työllistymisen tukemisen yleinen järjestäminen, ohjaus ja valvonta
+
+05.22.02 Vammaisten henkilöiden työllistymisen tukemisen ryhmä- ja yhteisötyö
+
+28.02.2017
+
+Oulun kaupunki TEHTÄVÄLUOKITUS 12(24)
+
+05.23 Talous- ja velkaneuvonta
+
+05.23.00 Talous- ja velkaneuvonta
+
+06 TERVEYDENHUOLTO
+
+06.00 Palveluprosessin hallinta
+
+06.00.00 Hoidon järjestäminen
+
+06.00.01 Perustietojen ylläpito
+
+06.00.02 Potilasasiakirjojen käytön ja luovutusten hallinta
+
+06.01 Ennaltaehkäisevä terveydenhoito
+
+06.01.00 Terveysneuvonta
+
+06.01.01 Seulonta
+
+06.02 Ensihoito ja sairaankuljetus
+
+06.02.00 Ensihoito ja sairaankuljetus
+
+06.03 Potilaan hoito
+
+06.03.00 Potilaan hoito
+
+06.04 Terveydenhoidolliset/sairaanhoidolliset palvelut
+
+06.04.00 Kuvantaminen
+
+06.04.01 Laboratoriotoiminta
+
+06.05 Vainajaan liittyvät terveydenhuollon tehtävät
+
+06.05.00 Vainajaan liittyvät terveydenhuollon tehtävät
+
+06.06 Potilaan hoitoon liittyvä yhteistyö
+
+06.06.00 Organisaatioiden välinen tiedonvaihto
+
+28.02.2017
+
+Oulun kaupunki TEHTÄVÄLUOKITUS 13(24)
+
+06.06.01 Virka-aputehtävät
+
+06.07 Tukipalvelut
+
+06.07.00 Välinehuolto ja hoitotarvikepalvelut
+
+06.07.01 Apuvälinepalvelut
+
+06.07.02 Apteekkitoiminta
+
+06.07.03 Lääketekniikka
+
+07 TIEDON HALLINTA JA VIESTINTÄPALVELUT
+
+07.00 Tiedon hallinnan kehittäminen ja ohjaus
+
+07.00.00 Tiedonhallinnan kehittäminen ja ohjaus
+
+07.01 Tiedon hallinta ja tietopalvelu
+
+07.01.00 Tietoturva
+
+07.01.01 Tietosuoja
+
+07.01.02 Sähköisen asioinnin kehittäminen
+
+07.01.03 Asiakirjahallinto ja arkistointi
+
+07.01.04 Tietopalvelu
+
+07.01.04.00 Asiakastietojen tarkastus ja korjaus
+
+07.01.04.01 Asiakirjaluovutukset
+
+07.01.04.02 Tutkimus- ja käyttölupien antaminen
+
+07.01.05 Tilastotoimi
+
+07.02 Viestintä ja tiedottaminen
+
+07.02.00 Viestinnän ja tiedottamisen järjestäminen
+
+07.02.01 Viestinnän ja tiedottamisen toteuttaminen
+
+07.02.02 Suhdetoiminta
+
+07.02.02.00 Kansainvälinen edustaminen
+
+28.02.2017
+
+Oulun kaupunki TEHTÄVÄLUOKITUS 14(24)
+
+07.02.02.01 Edustaminen
+
+07.02.03 Julkaisutoiminta
+
+07.02.04 Tulkkipalvelut
+
+07.03 Tietojärjestelmien kehittäminen ja ylläpito
+
+07.03.00 Tietojärjestelmäpalvelujen ohjaus
+
+07.03.01 Tietojärjestelmien käyttöoikeuksien hallinta
+
+07.03.02 Tietojärjestelmien suunnittelu ja käyttö
+
+07.03.02.00 Rakentaminen, käyttöönotto ja testaus
+
+07.03.02.02 Lisenssien hallinta
+
+07.03.02.04 Ylläpito ja tukipalvelut
+
+07.03.02.05 Integrointi
+
+08 LIIKENNE
+
+08.00 Liikenteen suunnittelu ja kehittäminen
+
+08.00.00 Liikenteen suunnittelu, kehittäminen, ohjaus ja ylläpito
+
+08.00.01 Liikenneturvallisuus ja liikenteen ohjaus
+
+08.01 Liikennepalvelut
+
+08.01.00 Joukkoliikenteen toiminnallinen suunnittelu ja tuottaminen
+
+08.01.01 Kuljetusten järjestäminen
+
+08.01.02 Satamatoiminta ja aluspalvelut
+
+08.01.03 Pysäköinnin ja liikenteen valvonta
+
+09 TURVALLISUUS JA YLEINEN JÄRJESTYS
+
+09.00 Turvallisuus- ja yleisten järjestysasioiden ohjaus
+
+28.02.2017
+
+Oulun kaupunki TEHTÄVÄLUOKITUS 15(24)
+
+09.01 Maanpuolustus
+
+09.02 Poliisi- ja järjestystoimi
+
+09.03 Pakkokeinot, rangaistukset ja kriminaalipolitiikka
+
+09.04 Rajavalvonta
+
+09.05 Palo- ja pelastustoimi
+
+09.05.00 Onnettomuuksien ennaltaehkäisy
+
+09.05.01 Sammutus- ja pelastustoiminta
+
+09.06 Väestönsuojelu ja poikkeusoloihin varautuminen
+
+09.06.00 Valmiussuunnittelu ja normaaliolojen häiriötilanteisiin varautuminen
+
+10 MAANKÄYTTÖ, RAKENTAMINEN JA ASUMINEN
+
+10.00 Maankäytön, rakentamisen ja asumisen ohjaus
+
+10.00.00. Maapolitiikan hoito
+
+10.00.01 Maanhankinta
+
+10.00.01.00 Maan ostaminen
+
+10.00.01.01 Etuosto-oikeusmenettely
+
+10.00.01.02 Lunastusmenettely
+
+10.00.01.03 Katualueen haltuunotto
+
+10.00.01.06 Maankäyttösopimusmenettely
+
+10.00.02 Maan luovutus
+
+10.00.02.00 Kaavoitettujen tonttien myynti
+
+10.00.02.01 Kaavoitettujen tonttien myynti ostotarjousten perusteella
+
+10.00.02.02 Kaavoitettujen tonttien vuokraus
+
+28.02.2017
+
+Oulun kaupunki TEHTÄVÄLUOKITUS 16(24)
+
+10.00.02.04 Muun maan myynti
+
+10.00.02.05 Muun maan vuokraus
+
+10.01 Maanmittaus ja maaperätutkimus
+
+10.01.00 Kiinteistönmuodostus, tonttijaot, katukorvaukset
+
+10.01.00.00 Lohkominen
+
+10.01.00.03 Muut kiinteistötoimitukset
+
+10.01.00.04 Kiinteistörekisterinpitäjän päätökset
+
+10.01.00.05 Erillinen tonttijako
+
+10.01.00.06 Katualueiden haltuunotto
+
+10.01.02 Maastomittaukset ja paikkatietojen hallinta
+
+10.01.02.00 Ilmakuvaus
+
+10.01.02.01 Maastomittaukset
+
+10.02 Kaavoitus
+
+10.02.01 Kuntien välinen kaavoitusyhteistyö
+
+10.02.02 Yleiskaavoitus/osayleiskaavoitus
+
+10.02.03 Asemakaavoitus
+
+10.02.04 Rantakaavoitus
+
+10.02.05 Rakennuskiellot ja toimenpidekiellot/-rajoitukset
+
+10.02.06 Nimistö- ja osoiteasiat
+
+10.03 Rakentaminen, ylläpito ja käyttö
+
+10.03.00 Rakennusvalvonta
+
+10.03.00.00 Rakennusjärjestyksen laatiminen
+
+10.03.00.01 Poikkeamislupamenettely
+
+10.03.00.02 Suunnittelutarveratkaisumenettely
+
+10.03.00.03 Rakennuslupamenettely
+
+10.03.00.04 Toimenpideilmoitusmenettely
+
+28.02.2017
+
+Oulun kaupunki TEHTÄVÄLUOKITUS 17(24)
+
+10.03.00.05 Toimenpidelupamenettely
+
+10.03.00.07 Maisematyölupamenettely
+
+10.03.00.08 Purkamisilmoitusmenettely
+
+10.03.00.09 Purkamislupamenettely
+
+10.03.00.10 Tilapäistä rakennusta koskeva lupamenettely
+
+10.03.00.12 Maa-ainesilmoitusmenettely ja maa-aineisten kotitarveotto
+
+10.03.00.13 Maa-aineslupamenettely
+
+10.03.00.14 Rakennusrasitemenettely
+
+10.03.00.15 Rakennetun ympäristön jatkuva valvonta
+
+10.03.00.16 Johtojen ja laitteiden sijoittamisluvat
+
+10.03.01 Yleisten alueiden suunnittelu, rakentaminen ja kunnossapito
+
+10.03.01.00 Maarakentaminen
+
+10.03.01.01 Liikenneväylien suunnittelu, rakentaminen ja kunnossapito
+
+10.03.01.02 Ulkoilu- ja viheralueiden suunnittelu, rakentaminen ja kunnossapito
+
+10.03.01.03 Kunnallistekninen suunnittelu, rakentaminen ja kunnossapito
+
+10.03.01.04 Vesialueiden suunnittelu, rakentaminen ja kunnossapito
+
+10.03.01.05 Maa- ja metsätilojen hoito
+
+10.03.01.06 Yleisten alueiden käyttö ja käyttölupien myöntäminen
+
+10.03.02 Kiinteistöjen rakentaminen, vuokraus, ylläpito ja käyttö
+
+10.03.02.00 Kiinteistöjen rakentaminen ja korjausrakennuttaminen
+
+10.03.02.01 Vuokraus, ylläpito ja käyttö
+
+10.04 Asuminen
+
+10.04.00 Asuntotuotannon ohjaus
+
+10.04.01 Asumisoikeusasiat
+
+10.04.02 Asukasvalinta-asiat
+
+10.04.03 Asuntojen vuokraus
+
+10.04.04 Korjausneuvonta ja avustusten myöntäminen
+
+10.04.04.00 Korjausneuvonta
+
+28.02.2017
+
+Oulun kaupunki TEHTÄVÄLUOKITUS 18(24)
+
+10.04.04.01 Korjaus-, energia- ja hissiavustusten myöntäminen
+
+11 YMPÄRISTÖASIAT
+
+11.00 Ympäristöasioiden ohjaus
+
+11.00.01 Ympäristösopimusten laadinta
+
+11.00.02 Ympäristöasioiden ohjeistaminen
+
+11.00.04 Ympäristöpolitiikka ja ympäristöjohtaminen
+
+11.00.05 Ympäristöraportin ja -tilinpäätöksen laadinta
+
+11.00.06 Ympäristöpolitiikkaa tukevien ohjelmien ja suunnitelmien laadinta
+
+11.00.08 Ympäristönsuojelumääräyksien antaminen
+
+11.01 Ympäristönsuojelu
+
+11.01.00 Ympäristönsuojelun lupa- ja ilmoitusasiat ja niiden valvonta
+
+11.01.00.00 Muiden lupaviranomaisten ympäristölupien käsittely ja valvonta
+
+11.01.00.01 Kunnan myöntämien ympäristölupien käsittely ja valvonta
+
+11.01.00.02 Koeluonteisesta toiminnasta kunnan ympäristöviranomaiselle ilmoittaminen
+
+11.01.00.03 Poikkeuksellisesta tilanteesta kunnan ympäristöviranomaiselle ilmoittaminen
+
+11.01.00.04 Kunnan myöntämien ympäristölupien ja maa-aineslupien yhteiskäsittely ja valvonta
+
+11.01.00.05 Lausuntojen antaminen ympäristönsuojeluasioista
+
+11.01.00.06 Ympäristön pilaantumisen vaaraa aiheuttavasta toiminnasta kunnan ympäristönsuojeluviranomaiselle ilmoittaminen
+
+11.01.00.07 Kunnan ympäristösuojelumääräyksistä poikkeaminen
+
+11.01.01 Vesistöihin liittyvät lupa- ja ilmoitusasiat
+
+11.01.02 Vesiliikenteen lupa-asiat
+
+11.01.03 Maastoliikenteen lupa-asiat
+
+11.01.04 Luonnonsuojelun lupa-asiat
+
+11.01.05 Vesi- ja jätevesihuollon lupa-asiat
+
+11.01.06 Jätehuollon lupa-asiat
+
+28.02.2017
+
+Oulun kaupunki TEHTÄVÄLUOKITUS 19(24)
+
+11.02 Ympäristöterveydenhuolto
+
+11.02.00 Elintarvikevalvonta
+
+11.02.01 Tuoteturvallisuus
+
+11.02.02 Terveydensuojelu
+
+11.02.03 Kemikaaliasiat
+
+11.02.04 Tupakkavalvonta- ja nikotiinikorvausasiat
+
+11.02.06 Eläinsuojelu ja eläintaudit
+
+11.02.07 Eläinlääkintähuolto
+
+11.03 Ympäristövalvonta ja -haittojen ehkäisy
+
+11.03.00 Ilmanlaadun seuranta
+
+11.03.01 Melu- ja tärinähaittojen valvonta ja ehkäisy
+
+11.03.02 Jätehuollon valvonta
+
+11.03.03 Vesien suojelun valvonta
+
+11.03.04 Yleinen ympäristön tilan seuranta
+
+11.03.05 Ympäristönsuojelullisten tutkimusten toteuttaminen
+
+11.03.06 Ympäristönsuojelun neuvonta ja ohjaus
+
+11.03.07 Maaperän suojelu ja valvonta
+
+11.03.08 Leirintäalueet
+
+11.04 Vesi- ja jätevesihuollon valvonta
+
+11.04.00 Vesihuollon valvonta
+
+11.04.01 Jätevesihuollon valvonta
+
+11.05 Maisema- ja kulttuuriympäristön suojelu ja hoito
+
+11.05.00 Maisema- ja kulttuuriympäristön suojelun ja hoidon ohjaus
+
+11.05.01 Muinaismuistojen hoitaminen ja hallinta
+
+11.05.02 Kunnan maisema- ja kulttuurikohteiden suojelu ja hoito
+
+28.02.2017
+
+Oulun kaupunki TEHTÄVÄLUOKITUS 20(24)
+
+12 OPETUS- JA SIVISTYSTOIMI
+
+12.00 Opetus- ja sivistystoimen ohjaus
+
+12.00.00 Koulutus- ja opetusjärjestelyjen suunnittelu ja toteuttaminen
+
+12.00.01 Koulutuksen ja opetuksen suunnittelu
+
+12.00.02 Kokeilu- ja kehittämistoiminta
+
+12.01 Oppilas- ja opiskelija-asiat
+
+12.01.00 Oppilasvalinnat ja oppilaaksiotto
+
+12.01.00.00 Esiopetukseen hakeminen
+
+12.01.00.01 Koulunkäyntilupa
+
+12.01.00.02 Koulunkäyntilupa yhtä vuotta säädettyä aiemmin
+
+12.01.00.03 Koulunkäyntilupa yhtä vuotta säädettyä myöhemmin
+
+12.01.00.04 Kieli- ja kulttuuriryhmien valmistavaan opetukseen ottaminen
+
+12.01.00.05 Erikoisluokalle valinta
+
+12.01.00.06 Oppilaan toteaminen eronneeksi
+
+12.01.00.07 Oppilaan siirto yläkouluun
+
+12.01.00.08 Erityisopetukseen ottaminen/siirto ja purkaminen
+
+12.01.00.09 Yhteishaku
+
+12.01.00.10 Koulunkäyntioikeus vieraaseen kuntaan
+
+12.01.00.11 Koulunkäyntioikeus toiseen koulupiiriin
+
+12.01.00.12 Siirto toiseen kouluun
+
+12.01.01 Oppilaanarviointi
+
+12.01.02 Oppilaan opetuksen järjestäminen
+
+12.01.03 Oppilashuolto
+
+12.01.03.00 Aamu- ja iltapäivätoiminta
+
+12.01.03.01 Koulumatkatuki (lukio)
+
+12.01.03.02 Opintososiaaliset tukitoimet
+
+12.01.03.03 Koulupsykologi- ja koulukuraattoritoiminta
+
+28.02.2017
+
+Oulun kaupunki TEHTÄVÄLUOKITUS 21(24)
+
+12.01.03.05 Kouluruokailu
+
+12.01.03.06 Tukioppilastoimikunta
+
+12.01.04 Kurinpito
+
+12.01.05 Kodin ja koulun välinen yhteistyö
+
+12.01.06 Palkitseminen ja stipendit
+
+12.01.07 Opiskelijavaihto
+
+12.01.08 Oppilaskuntatoiminta
+
+12.01.09 Harrastus- ja kerhotoiminta
+
+12.02 Opetuksen toteuttaminen
+
+12.02.00 Koulutuksen ja opetuksen laadun arviointi
+
+12.02.02 Työelämään tutustuminen
+
+12.02.03 Ylioppilastutkinto
+
+12.03 Kulttuuripalvelut
+
+12.03.00 Kulttuuritoimen suunnittelu ja ohjaus
+
+12.03.01 Kulttuuritapahtumien ja -toiminnan järjestäminen
+
+12.03.02 Kirjastotoiminta
+
+12.03.02.00 Aineiston ja kokoelmien ylläpito
+
+12.03.02.01 Lainaustoiminta ja -valvonta
+
+12.03.02.02 Kaukolainaus
+
+12.03.02.03 Hakeutuva kirjasto (kirjastoautot, potilaskirjastot, koti)
+
+12.03.02.04 Kirjailijavierailut ja tapahtumat
+
+12.03.03 Museotoiminta
+
+12.03.03.00 Kokoelmahallinta
+
+12.03.03.01 Konservointi
+
+12.03.03.02 Valokuvaus ja dokumentointi
+
+12.03.03.03 Yleisöpalvelut
+
+12.03.03.04 Museopedagogiikka
+
+28.02.2017
+
+Oulun kaupunki TEHTÄVÄLUOKITUS 22(24)
+
+12.03.03.05 Kulttuuriympäristön suojelu
+
+12.03.04 Musiikki- ja orkesteritoiminta
+
+12.03.05 Teatteri-, baletti-, ja oopperatoiminta
+
+12.04 Liikuntatoimi
+
+12.04.00 Liikuntatoimen suunnittelu
+
+12.04.01 Liikuntapaikkapalvelut
+
+12.04.02 Liikunnanohjauspalvelut
+
+12.05 Lapsi- ja nuorisoasioiden palvelut
+
+12.05.01 Tiedotus ja neuvonta
+
+12.05.02 Nuorisotyö
+
+12.05.03 Koululaisten kerhotoiminta
+
+12.05.04 Leirit ja tapahtumat
+
+12.05.05 Työpajatoiminta
+
+13 TUTKIMUS- JA KEHITTÄMISTOIMINTA
+
+13.00 Tutkimus- ja kehittämistoiminnan ohjaus
+
+13.01 Tutkimus- ja kehittämistoiminnan suunnittelu, järjestäminen ja toteuttaminen
+
+13.02 Tutkimuseettinen toiminta
+
+14 ELINKEINO- JA TYÖVOIMAPALVELUT
+
+14.00 Elinkeino- ja työvoimapalvelujen ohjaus
+
+14.00.00 Elinkeino- ja työvoimapolitiikka
+
+14.00.01 Elinkeino- ja työvoimatoiminnan suunnittelu ja kehittäminen
+
+28.02.2017
+
+Oulun kaupunki TEHTÄVÄLUOKITUS 23(24)
+
+14.01 Yritystoiminnan edistäminen
+
+14.01.00 Yhteistyö ja yritystoiminnan tukeminen
+
+14.02 Matkailun edistäminen
+
+14.02.00 Matkailun edistäminen
+
+14.03 Maaseudun elinkeinotoiminta
+
+14.03.00 Maatalous
+
+14.03.01 Lomitustoiminta
+
+14.03.02 Metsätalous
+
+14.03.03 Kalatalous
+
+14.03.04 Porotalous
+
+14.03.05 Metsästys ja riistatalous
+
+14.04 Polttoaine- ja energiatuotannon sekä -huollon suunnittelu, järjestäminen ja toteuttaminen
+
+14.04.00 Energiatuotannon sekä -huollon ohjaus
+
+14.04.01 Energiantuotanto
+
+14.05 Vesi- ja jätevesihuollon järjestäminen ja toteuttaminen
+
+14.05.00 Vesihuollon järjestäminen
+
+14.05.01 Jätevesihuollon järjestäminen
+
+14.06 Jätehuollon järjestäminen ja toteuttaminen
+
+14.06.00 Jätehuollon järjestäminen
+
+14.06.01 Jätehuollon toteuttaminen
+
+14.07 Työvoimapalvelut
+
+14.07.00 Työvoimapalveluiden suunnittelu ja kehittäminen
+
+28.02.2017
+
+Oulun kaupunki TEHTÄVÄLUOKITUS 24(24)
+
+14.07.01 Työvoimapalveluiden tuottaminen
+
+14.08 Kuluttajaneuvonta
