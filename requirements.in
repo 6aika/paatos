@@ -1,17 +1,23 @@
-Django<1.11,<2.0
+Django<2.0
 pip-tools
-djangorestframework<3.5
+djangorestframework
 django-autoslug
 django-enumfields
 django-environ
 django-parler-rest
 django-easy-select2
+httpio
+jsonschema
+lxml
+pytz
+pyyaml
+
 # dev requirements:
 autoflake
 autopep8
 coveralls
 flake8
-isort
+flake8-isort
 pytest-cov
 pytest-django
 pytest-factoryboy

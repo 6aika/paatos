@@ -1,12 +1,22 @@
-language: python
 sudo: false
-python: 3.4
+language: python
+
+python:
+  - '3.5'
+  - '3.6'
+  - 'nightly'
+
+cache: pip
+
 addons:
   postgresql: "9.4"
+
 install:
   - pip install -U pip wheel
-  - pip install -r requirements.txt
+  - pip install codecov -r requirements.txt
+
 script:
   - flake8 decisions paatos
-  - py.test -vvv --cov decisions
-after_success: coveralls
+  - pytest -vvv --cov=.
+
+after_success: codecov

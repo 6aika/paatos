@@ -4,8 +4,8 @@ import json
 from django.conf import settings
 
 from decisions.models import (
-    Action, Attachment, Case, CaseGeometry, Content, DataSource, Event, Function, Organization, Post
-)
+    Action, Attachment, Case, CaseGeometry, Content, DataSource, Event,
+    Function, Organization, Post)
 
 from .base import Importer
 

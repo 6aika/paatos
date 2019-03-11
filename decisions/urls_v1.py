@@ -1,7 +1,9 @@
 from django.conf.urls import include, url
 from rest_framework.routers import DefaultRouter
 
-from decisions.api import ActionViewSet, CaseViewSet, EventViewSet, FunctionViewSet, OrganizationViewSet, PostViewSet
+from decisions.api import (
+    ActionViewSet, CaseViewSet, EventViewSet, FunctionViewSet,
+    OrganizationViewSet, PostViewSet)
 
 router = DefaultRouter()
 router.register(r'action', ActionViewSet)

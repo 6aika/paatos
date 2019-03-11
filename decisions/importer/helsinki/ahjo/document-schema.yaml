@@ -1,0 +1,76 @@
+$schema: http://json-schema.org/draft-04/schema#
+id: http://6aika.fi/paatos/decision-document-schema
+
+description: "Schema for decision document"
+
+additionalProperties: false
+required: [document, errors]
+properties:
+  document: {$ref: "#/definitions/document"}
+  errors:
+    type: array
+    items: {$ref: "#/definitions/error"}
+
+definitions:
+  document:
+    additionalProperties: false
+    required: [type, event]
+    properties:
+      type: {enum: ["minutes", "agenda"]}
+      event: {$ref: "#/definitions/event"}
+
+  event:
+    additionalProperties: false
+    required: [name, start_date, end_date]
+    properties:
+      name: {type: string}
+      location: {type: string}
+      start_date: {type: string, format: date-time}
+      end_date: {type: string, format: date-time}
+      attendees: {type: array, items: {$ref: "#/definitions/attendee"}}
+      actions: {type: array, items: {$ref: "#/definitions/action"}}
+
+  attendee:
+    additionalProperties: false
+    required: [name]
+    properties:
+      name: {type: string}
+      category: {enum: ["participant", "expert", "other"]}
+      role: {type: string}
+      title: {type: string}
+
+  action:
+    additionalProperties: false
+    required: [content]
+    properties:
+      case_guid: {type: string}
+      article_number: {type: integer}
+      attachments: {type: array, items: {$ref: "#/definitions/attachment"}}
+      title: {type: string}
+      date: {type: string, format: date-time}
+      register_id: {type: string}
+      content: {type: string}
+      function_id: {type: string}
+      function_name: {type: string}
+      keywords: {type: array, items: {type: string}}
+      resolution: {enum: ["accepted"]}
+
+  attachment:
+    additionalProperties: false
+    required: [id, name, ordering]
+    properties:
+      id: {type: [string, "null"]}
+      name: {type: [string, "null"]}
+      ordering: {type: integer}
+
+  error:
+    additionalProperties: false
+    required: [msg, severity, state]
+    properties:
+      msg: {type: string}
+      severity: {type: integer}
+      state:
+        additionalProperties: false
+        properties:
+          current_action: {type: [string, "null"]}
+          filename: {type: string}

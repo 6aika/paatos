@@ -1,3 +1,7 @@
+[![Build status](https://travis-ci.org/City-of-Helsinki/paatos.svg?branch=master)](https://travis-ci.org/City-of-Helsinki/paatos)
+[![codecov](https://codecov.io/gh/City-of-Helsinki/paatos/branch/master/graph/badge.svg)](https://codecov.io/gh/City-of-Helsinki/paatos)
+[![Requirements](https://requires.io/github/City-of-Helsinki/paatos/requirements.svg?branch=master)](https://requires.io/github/City-of-Helsinki/paatos/requirements/?branch=master)
+
 # Open decision API, 6Aika
 Open decision API is providing decisions made by a city in a harmonized and machine-readable format.
 This app is developed using Django and Django Rest Framework.

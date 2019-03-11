@@ -4,12 +4,13 @@ import os
 import os.path
 import tempfile
 import zipfile
+
 import dateutil.parser
 from django.utils.text import slugify
 
 from decisions.models import (
-    Action, Attachment, Case, Content, DataSource, Event, Organization, Function, CaseGeometry
-)
+    Action, Attachment, Case, CaseGeometry, Content, DataSource, Event,
+    Function, Organization)
 
 from .base import Importer
 
